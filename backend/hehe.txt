@@ -1,0 +1,3813 @@
+Departments:
+dept_id
+   BIOL
+   BIOT
+   BUSN
+   CHEM
+   CHIN
+   COMP
+   CRIM
+   CRST
+   CSCS
+   ECON
+   EDUC
+   ENGL
+   ENVR
+   FREN
+   GEOG
+   GRMN
+   HIST
+   HPED
+   ISLM
+   KORN
+   LING
+   MATH
+   MCOM
+   MUSC
+   PHIL
+   PHYS
+   PKST
+   PLSC
+   PSYC
+   SOCL
+   STAT
+   UNIV
+   URDU
+   WRCM
+
+Courses:
+ id dept_id course_code          course_name  course_credits
+  1    BIOL         100       Intro. Biology               4
+  2    BIOL         102  Intro Plant Biology               4
+  3    BIOL         105      General Zoology               4
+  4    BIOL         201         Cell Biology               3
+  5    BIOL         203     General Genetics               3
+  6    BIOL         212  Res Design& Biostat               3
+  7    BIOL         221    Plant Form & Fun.               4
+  8    BIOL         222   Animal Form & Fun.               4
+  9    BIOL         313         Biochemistry               4
+ 10    BIOL         315  Fun of Microbiology               4
+ 11    BIOL         323  Ecology & Evolution               4
+ 12    BIOL         329 Applied Endocrinolog               4
+ 13    BIOL         403     Plant Physiology               3
+ 14    BIOL         412         Neurobiology               3
+ 15    BIOL         415 Food Micrbio.&Safety               4
+ 16    BIOL         416 Medical Microbiology               3
+ 17    BIOL         469      Plant Pathology               4
+ 18    BIOL         473     Industrial Micro               3
+ 19    BIOT         202   Prot Cell & Tissue               4
+ 20    BIOT         301  Anal. Tech. in Biol               3
+ 21    BIOT         302  Fund. of Enzymology               4
+ 22    BIOT         307      Mol. Immunology               3
+ 23    BIOT         313    Molecular Biology               4
+ 24    BIOT         314    Bioenerg. & Metab               3
+ 25    BIOT         316      Fundam.Virology               3
+ 26    BIOT         408    Recomb. DNA Tech.               4
+ 27    BIOT         409   Food & Dairy Tech.               3
+ 28    BIOT         411  Agri. Biotechnology               3
+ 29    BIOT         412  Medi. Biotechnology               3
+ 30    BUSN         121       Microeconomics               3
+ 31    BUSN         160      Management Comm               3
+ 32    BUSN         206  Mgt. Acc. & Control               3
+ 33    BUSN         225   Econ Appl for Busn               3
+ 34    BUSN         250 Indiv & Grp Dynamics               3
+ 35    BUSN         305 Corporate Governance               3
+ 36    BUSN         322 Financial Managmt II               3
+ 37    BUSN         353  Human Resource Prac               3
+ 38    BUSN         354   Performance Mngmt.               3
+ 39    BUSN         361       Ops Excellence               3
+ 40    BUSN         368 Prod & Plant Mangmnt               3
+ 41    BUSN         370 Management Inf Syste               3
+ 42    BUSN         382       Marketing Comm               3
+ 43    BUSN         401 Principles of Auditi               3
+ 44    BUSN         453    Change Management               3
+ 45    BUSN         460         Business Law               3
+ 46    BUSN         469    Project Mang Proc               3
+ 47    BUSN         484     Brand Management               3
+ 48    BUSN         490     Analysis of Inst               3
+ 49    BUSN         498    Business Strategy               3
+ 50    CHEM         100  Intro. to Chemistry               4
+ 51    CHEM         150   Intro. Inorg. Chem               4
+ 52    CHEM         160   Intro. Org Biochem               4
+ 53    CHEM         161 Foundation of Chemis               3
+ 54    CHEM         170  Inro. Physical Chem               4
+ 55    CHEM         173  Into. Nuclear Chem.               3
+ 56    CHEM         250     Chem Main Groups               4
+ 57    CHEM         260   Prin. Organic Chem               4
+ 58    CHEM         261  Organic Chemistry I               4
+ 59    CHEM         262 Physical Organic Che               3
+ 60    CHEM         270   Thermodyna Equilib               4
+ 61    CHEM         311     Fund Analy. Chem               4
+ 62    CHEM         320      Industrial Chem               4
+ 63    CHEM         330         Biochemistry               4
+ 64    CHEM         331  Principals Bio Chem               3
+ 65    CHEM         350    Coordination Chem               4
+ 66    CHEM         361      Organic Chem II               4
+ 67    CHEM         370  Kinetic & Mechanism               4
+ 68    CHEM         372   Chemistry & Energy               3
+ 69    CHEM         450  Adv. Inorganic Chem               4
+ 70    CHEM         454 Inorganic Electro Sp               3
+ 71    CHEM         462 Spectroscopy of Orga               4
+ 72    CHEM         465 Nat Prods & Med Chem               4
+ 73    CHEM         470    Polymer Chemistry               3
+ 74    CHEM        499A     Research Project               3
+ 75    CHEM        499B     Research Project               3
+ 76    CHIN         101            Chinese I               3
+ 77    COMP         102        Programming I               4
+ 78    COMP         111       Programming II               4
+ 79    COMP         113 Discrete Mathematics               3
+ 80    COMP         200 Data Struc. & Algor.               4
+ 81    COMP         206 Digital Logic Design               3
+ 82    COMP         213     Database Systems               3
+ 83    COMP         220 Software Engineering               3
+ 84    COMP         295 Introduction to C/C+               3
+ 85    COMP         300 Computer Organizatio               3
+ 86    COMP         301    Operating Systems               3
+ 87    COMP         302   Theory of Automata               3
+ 88    COMP         303    D&A of Algorithms               3
+ 89    COMP         311    Computer Networks               3
+ 90    COMP         360   Introduction to AI               3
+ 91    COMP         401 Ethics Comp Professn               1
+ 92    COMP         405 Human Computer Inter               3
+ 93    COMP         410 Parallel and Distrib               3
+ 94    COMP         421 Information Security               3
+ 95    COMP         451 Compiler Constructio               3
+ 96    COMP         452 Computer Architectur               3
+ 97    COMP        497A       Senior Project               3
+ 98    COMP        497B       Senior Project               3
+ 99    CRIM         201 Sociological Researc               3
+100    CRIM         220 Intro. to Crimnology               3
+101    CRIM         310  Penology and Prison               3
+102    CRIM         460 Comparative Criminal               3
+103    CRST         151 Intro to Chris. Thou               3
+104    CRST         152     Christian Ethics               3
+105    CRST         155  Interpret the Bible               3
+106    CRST         211   Applied Theology 1               1
+107    CRST         212   Applied Theology 2               1
+108    CRST         232    Biblical Hebrew 2               3
+109    CRST         272    New Test. Greek 2               3
+110    CRST         281      Old Testament 1               3
+111    CRST         312   Applied Theology 4               1
+112    CRST         332    Biblical Hebrew 4               3
+113    CRST         372  New Testament Grk 4               3
+114    CRST         425       Hebrew Reading               3
+115    CRST        455A Greek Reading : 1 Jo               3
+116    CRST        471D English Bible: James               3
+117    CSCS         100   Intro to Computing               3
+118    CSCS         105    Basic Electronics               4
+119    CSCS         201 Multivariate Calculu               3
+120    CSCS         202    Comp Linear Algeb               3
+121    CSCS         203 Differential Equatio               3
+122    CSCS         290  Intro to JAVA Prog.               3
+123    CSCS         320  Numerical Computing               3
+124    CSCS         342 Web Application Deve               3
+125    CSCS         351 Software Quality Ass               3
+126    CSCS         366 Into.to Nat Language               3
+127    CSCS         455 Data Mng & Warehousi               3
+128    CSCS         468 Mob App Deveolopment               3
+129    CSCS         470 Introduction to Game               3
+130    CSCS         475    Tech Entrepreneur               3
+131    ECON         100 Principles of Econom               3
+132    ECON         101     Microeconomics I               3
+133    ECON         102     Macroeconomics I               3
+134    ECON         103 Mathematics for Econ               3
+135    ECON         201    Microeconomics II               3
+136    ECON         202    Macroeconomics II               3
+137    ECON         203 Statistics for Econ.               3
+138    ECON         206  Banking and Finance               3
+139    ECON         210 Population Economics               3
+140    ECON         300 Fundam. of Econometr               3
+141    ECON         302  Res Meth. & Com. Ap               3
+142    ECON         304 Managerial Economics               3
+143    ECON         315   Advanced Math Econ               3
+144    ECON         320 Econ.of Invest & Fin               3
+145    ECON         400   Issues in Pak Econ               3
+146    ECON         403 Time Ser Econometric               3
+147    ECON         406 Intro to Game Theory               3
+148    ECON         411   Development Policy               3
+149    ECON         413      Monetary Policy               3
+150    ECON         417 International Financ               3
+151    ECON        499A Research Prj & Paper               3
+152    ECON        499B Research Prj & Paper               3
+153    EDUC         110 Foundations of Educ.               3
+154    EDUC         120      Educ Psychology               3
+155    EDUC         240 Technology in Educat               3
+156    EDUC         300 Inst. Mthds & Strate               3
+157    EDUC         320 Intro Research in Ed               3
+158    EDUC         330 Educ Measuremt & Eva               3
+159    EDUC         340 Early Childhood Educ               3
+160    EDUC         345   Intro. to Guidance               3
+161    EDUC         350 Classroom Management               3
+162    EDUC         355  Teaching of English               3
+163    EDUC         370    Tech Lang Arts EL               3
+164    EDUC         390 Teaching Social Stud               3
+165    EDUC         498 Student Teaching Exp              12
+166    ENGL         110  Contemp Short Story               3
+167    ENGL         175 Crit. Think.&Reading               3
+168    ENGL         201 Intro to English lit               3
+169    ENGL         214   18th Century Novel               3
+170    ENGL         301 19th Ctry Engl Novel               3
+171    ENGL         303      Science Fiction               3
+172    ENGL         307      Classical Drama               3
+173    ENGL         310 British Romantic Poe               3
+174    ENGL         315             Poetry I               3
+175    ENGL         317 Existential Phi.&Lit               3
+176    ENGL         318  Creative Nonfiction               3
+177    ENGL         323  Amer. Poetry & dram               3
+178    ENGL         328   Trauma Lit.&Theory               3
+179    ENGL         331     Research Methods               3
+180    ENGL         350 Adv. Creative Writin               3
+181    ENGL         403 Cont Liter. Criticis               3
+182    ENGL         408  Post Modern Fiction               3
+183    ENGL         410 Intr. to Digi.Lit.St               3
+184    ENGL         445 Literature & Environ               3
+185    ENGL         499               Thesis               3
+186    ENVR         151     Intro to Sources               3
+187    ENVR         201   Intro Env Sciences               4
+188    ENVR         210 Earth's Physl Realms               3
+189    ENVR         212     Res Methds&Stats               3
+190    ENVR         250 Environmental Manage               3
+191    ENVR         252   Environ. Pollution               3
+192    ENVR         309  Intro Env. Modeling               3
+193    ENVR         311     Fund Analy. Chem               4
+194    ENVR         323  Ecology & Evolution               4
+195    ENVR         402   Solid Waste Manag.               3
+196    ENVR         403 Occu Health & Safety               3
+197    ENVR         404 Air/ Noise Poll. Cnt               3
+198    ENVR         405    Conservation Biol               3
+199    ENVR         413     Envr. Toxicology               3
+200    ENVR         415 Envr. Management Sys               3
+201    ENVR         418      Water Treatment               3
+202    ENVR         499     Project/Research               6
+203    FREN         101             French 1               3
+204    GEOG         101   Funda of Geography               3
+205    GEOG         133   Geog Prof. of Pak.               3
+206    GEOG         201 Intro to GIS & Tech.               3
+207    GEOG         210 Earth's Physl Realms               3
+208    GEOG         220 Hum Doma.of Geograph               3
+209    GEOG         311 Princ of Atm. & Hydr               3
+210    GEOG         313  Geodyn and Geomorph               3
+211    GEOG         324  Settl.t Patte. & Pr               3
+212    GEOG         326    Urban Env. Issues               3
+213    GEOG         416 Nat Haz & Mgmt Issue               3
+214    GEOG         471  Qual & Quan Techniq               4
+215    GEOG        499A     Directed Project               3
+216    GEOG        499B     Directed Project               3
+217    GRMN         101             German I               3
+218    GRMN         102            German II               3
+219    HIST         101 Survey of South Asia               3
+220    HIST         102 Survey of Westrn Civ               3
+221    HIST         202 Surv of Modern Europ               3
+222    HIST         207      British History               3
+223    HIST         250 His. salaten-e-delhi               3
+224    HIST         305  Ancnt Hist Sub-Cont               3
+225    HIST         306      Islamic History               3
+226    HIST         308    History of Lahore               3
+227    HIST         312  Modern Muslim World               3
+228    HIST         315  Freedom and the Nat               3
+229    HIST         320 Reform & Renaissance               3
+230    HIST         410 Colon Punj 1848-1947               3
+231    HIST         499 Independent Research               3
+232    HPED         102       Football(Boys)               1
+233    HPED         107            Athletics               1
+234    HPED         112             Handball               1
+235    HPED         150   Advanced first Aid               4
+236    ISLM         101    Islamic Education               3
+237    ISLM         201     Tajweed-Ul-Quran               3
+238    ISLM         202  The Qur. Con. Stl.&               3
+239    ISLM         301       Hadith Studies               3
+240    ISLM         304       Seerat-Un-Nabi               3
+241    ISLM         305  Interfaith Dialogue               3
+242    ISLM         401 Comp. Stud. of Relig               3
+243    KORN         101             Korean I               3
+244    KORN         102            Korean II               3
+245    LING         207 History of Eng. Lang               3
+246    LING         217 Introduction to Ling               3
+247    LING         304            Semantics               3
+248    LING         308  Translation Studies               3
+249    LING         319           Pragmatics               3
+250    LING         333 Bilingualism and Mul               3
+251    LING         370  LanguageCulture&Ide               3
+252    LING         422   Corpus Linguistics               3
+253    LING         495  Res.Methods in Ling               3
+254    LING         499               Thesis               6
+255    MATH         095        Math Remedial               0
+256    MATH         100  Quantitative Skills               3
+257    MATH         101 Pre-Calc & Trigonom.               3
+258    MATH         102           Calculus 1               3
+259    MATH         103  Intro. Lin. Algebra               3
+260    MATH         105 Prob & Prob. Distrib               3
+261    MATH         107  Statistical Methods               3
+262    MATH         111    Calc & Analy Geom               3
+263    MATH         201          Calculus II               3
+264    MATH         202 Ord Diffrn Equations               3
+265    MATH         203      Vector Analysis               3
+266    MATH         210           Set Theory               3
+267    MATH         301 Multivariable Calcul               3
+268    MATH         302            Mechanics               4
+269    MATH         303 Discrete Mathe... St               3
+270    MATH         304  Operations Research               3
+271    MATH         307     Complex Analysis               4
+272    MATH         310   Numerical Analysis               3
+273    MATH         313         Group Theory               3
+274    MATH         315   Mathematical Stats               3
+275    MATH         404    Partial Diff Equa               4
+276    MATH         407  Functional Analysis               3
+277    MCOM         101 Intro to Com Studies               3
+278    MCOM         200         Copy Writing               3
+279    MCOM         201       News Reporting               3
+280    MCOM         203  Media & Peace Buil.               3
+281    MCOM         290 Fundamentals of Rese               3
+282    MCOM         301        Media Systems               3
+283    MCOM         302      Opinion Writing               3
+284    MCOM         310         MCOM Studies               3
+285    MCOM         400 Med Mngt. in Ad & PR               3
+286    MCOM         401  Radio Broadcasting:               3
+287    MCOM         403     Intl. Journalism               3
+288    MCOM         409 Theories of Mass Com               3
+289    MCOM         410   Documentary Making               3
+290    MCOM         414 Research Methodology               3
+291    MCOM         415 Comm Campaign Design               3
+292    MCOM         430            Media Lab               4
+293    MCOM         499 Research Thesis/Proj               3
+294    MUSC         101 Musc Pract I - Vocal               3
+295    MUSC         250   Music Appreciation               3
+296    PHIL         101  Intro to Philosophy               3
+297    PHIL         201 Ancient through Medi               3
+298    PHIL         221   Logic How to Think               3
+299    PHIL         331   Thoeries of Ethics               3
+300    PHIL         341         Epistemology               3
+301    PHIL         342     Phil. of Science               3
+302    PHYS         100    Intro. to Physics               4
+303    PHYS         101    General Physics I               4
+304    PHYS         102   General Physics II               4
+305    PHYS         103            Mechanics               4
+306    PHYS         104  Wave and Vibrations               4
+307    PHYS         222       Modern Physics               4
+308    PHYS         234 Heat & Thermodynamic               3
+309    PHYS         321      Electrodynamics               4
+310    PHYS         341 Methods of Math. Phy               3
+311    PHYS         351      Enviorn Physics               3
+312    PHYS         353 Intr.Nonlinear Metho               3
+313    PHYS         422      Nuclear Physics               3
+314    PHYS         460  Intr. to Med. Phys.               3
+315    PHYS         462 Quantum Mechanics II               3
+316    PHYS         482  Solid St Physics II               3
+317    PHYS         498           Internship               6
+318    PHYS        499A  Senior Thesis Proj.               3
+319    PHYS        499B Senior Thesis Projec               3
+320    PKST         101     Pakistan Studies               3
+321    PLSC         101 Intro to Pol Science               3
+322    PLSC         102  Pakistan Government               3
+323    PLSC         201 Gov. of Western Euro               3
+324    PLSC         203 International Relati               3
+325    PLSC         204 Pak. Gov.-Prv./local               3
+326    PLSC         212  Theor Comp. Politic               3
+327    PLSC         301   Ancnt Mdvl Poli Th               3
+328    PLSC         302 Modern Political The               3
+329    PLSC         303  Contemp Poli Theory               3
+330    PLSC         304 Research Methodology               3
+331    PLSC         310 Politics Middle East               3
+332    PLSC         317   Poli Dynam Parties               3
+333    PLSC         331   Const Law I - U.S.               3
+334    PLSC         336 Public Administratio               3
+335    PLSC         340      Pol. Afg.&Iran.               3
+336    PLSC         341    Politics of China               3
+337    PLSC         400 Current Political Pr               3
+338    PLSC         401 International Politi               3
+339    PLSC         402    Islam & Modernity               3
+340    PLSC         403 Sem Majr Poli Scienc               3
+341    PSYC         100  Intro to Psychology               3
+342    PSYC         150  Dev. Psychology - 1               3
+343    PSYC         175    Educational Psyc.               3
+344    PSYC         220 Stat. for Psychology               4
+345    PSYC         240 Theories Personality               3
+346    PSYC         280    Social Psychology               3
+347    PSYC         290  Consumer Psychology               3
+348    PSYC         300  Positive Psychology               3
+349    PSYC         301  Industrial Org Psyc               3
+350    PSYC         305   Res Meth in Psyc I               3
+351    PSYC         310    School Psychology               3
+352    PSYC         315   Cognitive Psyc Lab               4
+353    PSYC         330 Environmental Psych.               3
+354    PSYC         340  Abnormal Psychology               3
+355    PSYC         350        Biopsychology               3
+356    PSYC         360  Psych Testing & Mea               4
+357    PSYC         375 Psychology for Gendr               3
+358    PSYC         385  Forensic Psychology               3
+359    PSYC         415  Res Meth in Psyc II               3
+360    PSYC         430    Health Psychology               3
+361    PSYC         440 Counseling Psycholog               3
+362    PSYC         450  His. & Sys.of Psych               3
+363    PSYC         465        Clinical Psyc               4
+364    PSYC        499B        Senior Thesis               3
+365    SOCL         100   Intro to Sociology               3
+366    SOCL         101   Intro. Social Work               3
+367    SOCL         103 Introduction to Soci               3
+368    SOCL         150  Socl of Globalizati               3
+369    SOCL         201        Soc. Research               3
+370    SOCL         202  Qualitative Methods               3
+371    SOCL         203    Social Statistics               3
+372    SOCL         220 Intr. to Criminology               3
+373    SOCL         223 Sociocultural Anthro               3
+374    SOCL         301 Theol Pers. in Socl.               3
+375    SOCL         325  Sociology of Gender               3
+376    SOCL         350 Sociology of Develop               3
+377    SOCL         355   Sociology of Media               3
+378    SOCL         410 Socio of Art&Culture               3
+379    SOCL         435 Social Policy& Aging               3
+380    SOCL         450 Health & Health Sys.               3
+381    SOCL         494    Research Proposal               3
+382    STAT         100     Basic Statistics               3
+383    STAT         101  Statistical Methods               3
+384    STAT         102 Prob & Prob. Distrib               3
+385    STAT         103 Quan Meth. in Scl.Sc               3
+386    STAT         115  Probability & Stat.               3
+387    STAT         201   Statis Inference I               3
+388    STAT         202 Statisl Inference II               3
+389    STAT         206 Intro to Data Analyt               3
+390    STAT         207   Business Analytics               3
+391    STAT         208 Survey Methodologies               3
+392    STAT         212  Res. Meth. & Statis               3
+393    STAT         305 Stat Quality Control               3
+394    STAT         311   Mathematical Stats               3
+395    STAT         313   Operation Research               3
+396    STAT         317 Data Visualization R               3
+397    STAT         403     Point Estimation               3
+398    STAT         414 Statistical Learning               3
+399    UNIV         100      FOUND UNIV EDUC               3
+400    URDU         101   Communicative Urdu               3
+401    URDU         208    Script Wr in Urdu               3
+402    URDU         301   Modern Urdu Poetry               3
+403    URDU         303 Intro Selectd Genres               3
+404    URDU         402  Study of Urdu Drama               3
+405    WRCM         101 Writing&Communica. I               3
+406    WRCM         102 Writing&Communic. II               3
+
+Sections:
+ id  course_id section_id  available_seats  total_seats
+  1          1          B               11           35
+  2          1          C                0           35
+  3          1          D                0           35
+  4          1          E                2           35
+  5          1          F               11           35
+  6          1          G               21           35
+  7          1          H               26           35
+  8          2          A               23           35
+  9          2          B               28           35
+ 10          3          A                2           35
+ 11          3          B               22           35
+ 12          4          A                0           35
+ 13          5          A                0           35
+ 14          6          A                5           15
+ 15          7          A               26           35
+ 16          8          A               29           35
+ 17          9          A               26           35
+ 18          9          B                1           35
+ 19         10          A               31           35
+ 20         10          B               15           35
+ 21         11          A                2           10
+ 22         12          A                0           35
+ 23         13          A               32           35
+ 24         14          A                6           35
+ 25         15          A               32           35
+ 26         16          A               29           35
+ 27         17          A               26           35
+ 28         18          A               33           35
+ 29         19          A               14           35
+ 30         20          A                9           35
+ 31         21          A               15           35
+ 32         21          B               31           35
+ 33         22          A                9           35
+ 34         23          A                0           35
+ 35         24          A                3           35
+ 36         25          A                0           35
+ 37         26          A               15           35
+ 38         27          A               20           35
+ 39         28          A                0           35
+ 40         29          A               16           35
+ 41         30          A                2           35
+ 42         30          D                1           35
+ 43         30          E               25           35
+ 44         30          F                0           35
+ 45         30          G                0           35
+ 46         30          H                1           35
+ 47         30          I                0           35
+ 48         30          J               25           35
+ 49         31          C                0           35
+ 50         31          D                0           35
+ 51         31          E                3           35
+ 52         31          F                0           35
+ 53         31          G                0           35
+ 54         31          H                0           35
+ 55         31          I                0           35
+ 56         31          J               12           35
+ 57         32          B                0           35
+ 58         32          A                0           35
+ 59         32          C                0           35
+ 60         32          D                0           35
+ 61         32          E               28           35
+ 62         32          F                8           35
+ 63         32          G                8           35
+ 64         32          H                0           35
+ 65         32          I               16           35
+ 66         33          A                0           35
+ 67         33          B                0           35
+ 68         33          C                0           35
+ 69         33          D               30           35
+ 70         33          E               16           35
+ 71         33          F                0           35
+ 72         33          G               22           35
+ 73         33          H               11           35
+ 74         33          I               31           35
+ 75         34          A               31           35
+ 76         34          B                0           35
+ 77         34          C                0           35
+ 78         34          D               17           35
+ 79         34          E               23           35
+ 80         34          F                6           35
+ 81         34          G                0           35
+ 82         34          H                0           35
+ 83         34          I                0           35
+ 84         35          A               26           35
+ 85         35          B               12           35
+ 86         36          A               15           35
+ 87         36          B               24           35
+ 88         37          A               16           35
+ 89         38          A               16           35
+ 90         39          A                3           35
+ 91         39          B               25           35
+ 92         39          C               34           35
+ 93         40          A               25           35
+ 94         40          B                5           35
+ 95         40          C               31           35
+ 96         41          A                0           35
+ 97         41          B               18           35
+ 98         41          C                0           35
+ 99         41          D                0           35
+100         41          E               13           35
+101         41          F                0           35
+102         41          G               15           35
+103         41          H               24           35
+104         42          A               11           35
+105         42          B                0           35
+106         42          C                0           35
+107         42          D               15           35
+108         43          A                8           35
+109         44          A               19           35
+110         45          A               32           35
+111         45          B               32           35
+112         45          C               29           35
+113         46          A               13           75
+114         47          A                4           35
+115         47          B                7           35
+116         47          C               28           35
+117         48          A                6           35
+118         48          B                0           35
+119         48          C                0           35
+120         48          D                8           35
+121         48          E               19           35
+122         48          F               17           35
+123         48          G               18           35
+124         49          A                5           35
+125         49          B                0           35
+126         49          C                1           35
+127         49          D                9           35
+128         49          E               23           35
+129         49          F                0           35
+130         49          G               33           35
+131         50          A                9           35
+132         50          B               23           35
+133         50          C               18           35
+134         50          E               25           35
+135         51          A                6           35
+136         51          B               13           35
+137         51          C               28           35
+138         52          A               15           25
+139         52          B               17           25
+140         53          A               35           35
+141         54          A               33           35
+142         55          A               30           35
+143         56          A               33           35
+144         57          A               33           35
+145         58          A               29           35
+146         59          A               35           35
+147         60          A               32           35
+148         61          A               15           25
+149         62          A               19           25
+150         63          A               19           25
+151         64          A               33           35
+152         65          A               33           35
+153         66          A               32           35
+154         67          A               26           35
+155         68          A               32           35
+156         69          A               31           35
+157         70          A               35           35
+158         71          A               27           35
+159         72          A               33           35
+160         73          A               33           35
+161         74          A               32           35
+162         75          A               30           35
+163         76          A                0           20
+164         77          A               20           35
+165         77          B               29           35
+166         78          A                0           35
+167         78          B               23           35
+168         78          C                0           35
+169         78          D               24           35
+170         78          E                8           35
+171         78          F               13           35
+172         79          A                0           35
+173         79          B                0           35
+174         79          C                1           35
+175         80          A                0           35
+176         80          B               10           35
+177         81          A                0           30
+178         81          B                7           30
+179         82          A                0           35
+180         82          B                0           35
+181         82          C                0           35
+182         83          A               13           35
+183         83          B                5           35
+184         83          C                0           35
+185         84          A               25           35
+186         85          A                0           35
+187         85          B                3           35
+188         85          C               16           35
+189         86          A               16           35
+190         86          B               28           35
+191         86          C                1           30
+192         87          A                2           35
+193         87          B               21           35
+194         88          A               18           35
+195         88          B                0           35
+196         89          A                5           30
+197         89          B                0           30
+198         89          C               11           25
+199         90          A               20           35
+200         90          B                7           35
+201         90          C               16           35
+202         91          A               29           35
+203         91          B                0           35
+204         91          C               32           35
+205         92          A                2           35
+206         93          A                0           35
+207         93          B               16           35
+208         94          A               31           35
+209         94          B                0           35
+210         95          A                5           35
+211         95          B               15           35
+212         96          A               30           35
+213         97          A               36           70
+214         98          A               74          120
+215         99          A                0            5
+216        100          A                0            5
+217        101          A                0           35
+218        102          A                0           35
+219        103          A               16           35
+220        104          A               19           35
+221        104          B                0           25
+222        105          A                9           35
+223        106          A               29           35
+224        107          A               24           30
+225        108          A               26           35
+226        109          A               26           35
+227        110          A               28           35
+228        111          A               15           20
+229        112          A               35           35
+230        113          A               33           35
+231        114          A               35           35
+232        115          A               35           35
+233        116          A               35           35
+234        117          B                0           35
+235        117          G                0           35
+236        117          H                0           25
+237        117          J                0           25
+238        118          A                0           35
+239        119          A                9           35
+240        119          B               13           35
+241        119          C               30           35
+242        119          D                0           35
+243        120          A               23           35
+244        120          B               25           35
+245        120          C               10           35
+246        121          A               16           35
+247        121          B                2           35
+248        121          C                8           30
+249        122          A               10           35
+250        123          A               21           35
+251        123          B                6           35
+252        123          C               27           35
+253        124          A                0           35
+254        124          B                0           35
+255        125          A               23           35
+256        126          A               16           35
+257        127          A               14           35
+258        128          A               27           35
+259        129          A               19           35
+260        130          A               25           35
+261        131          D                0           35
+262        131          F                4           35
+263        131          H                0           35
+264        131          I               19           35
+265        131          J                0           35
+266        131          K               13           35
+267        131          L                1           35
+268        131          M                0           35
+269        132          A                0           35
+270        132          B               28           35
+271        132          C               27           35
+272        132          D               19           35
+273        133          A                9           35
+274        133          B               19           35
+275        133          C               23           35
+276        134          A               18           35
+277        134          B               25           35
+278        134          C               23           35
+279        135          A               23           35
+280        135          B                0           35
+281        136          A                5           35
+282        136          B               21           35
+283        137          A               21           35
+284        137          B                1           35
+285        138          A                0           35
+286        139          A                0           35
+287        139         IS                1            1
+288        140          A               23           35
+289        140          B               19           35
+290        141          A               24           35
+291        141          B                3           35
+292        142          A               19           35
+293        142          B                6           35
+294        143          A               30           35
+295        143          B               23           35
+296        144          A                0           35
+297        145          A               14           35
+298        146          A               29           35
+299        147          A                9           35
+300        148          A               27           35
+301        148          B               20           35
+302        149          A               20           35
+303        150          A               28           35
+304        150          B               19           35
+305        151          A               30           35
+306        152          A               29           35
+307        153          D                0           35
+308        153          E                0           35
+309        153          F                0           35
+310        154          A                0           35
+311        154          C                0           35
+312        154          D                6           35
+313        155          A                8           35
+314        156          A               25           35
+315        157          A               33           35
+316        158          A               10           35
+317        159          A               35           35
+318        160          A               33           35
+319        161          A               20           35
+320        162          A               23           35
+321        163          A               30           35
+322        164          A               27           35
+323        165          A               26           35
+324        166          A                0           35
+325        167          A                0           35
+326        167          B               13           35
+327        168          A                6           35
+328        168          B                0           35
+329        168          C                2           35
+330        169          A                9           35
+331        170          A                0           35
+332        171          A               13           35
+333        172          A                0           35
+334        173          A               10           35
+335        174          A                3           35
+336        175          A               19           35
+337        176          A                4           35
+338        177          A                4           35
+339        178          A               27           35
+340        179          A                3           35
+341        180          A               33           35
+342        181          A                9           35
+343        182          A               25           35
+344        183          A               20           35
+345        184          A               27           35
+346        185          A                7           35
+347        186          A                0           25
+348        187          A                0           35
+349        187          B                0           35
+350        188          A                8           25
+351        189          A                8           15
+352        190          A               27           35
+353        191          A               22           35
+354        191          B               27           35
+355        192          A               16           25
+356        193          A                8           10
+357        194          A               15           25
+358        195          A               24           35
+359        196          A               30           35
+360        197          A               26           35
+361        198          A               33           35
+362        199          A               25           35
+363        200          A               27           35
+364        201          A               32           35
+365        202          A               32           35
+366        203          A                0           20
+367        203          B                0           20
+368        203          C                0           20
+369        204          A                1           35
+370        204          B                1           35
+371        204          C                0           35
+372        205          A               19           35
+373        206          A               30           35
+374        207          A                0           10
+375        208          A               26           35
+376        209          A               31           35
+377        210          A               24           35
+378        211          A               30           35
+379        212          A               28           35
+380        213         IS                1            1
+381        214          A               15           35
+382        215          A                9           10
+383        216          A               10           10
+384        217          A                0           20
+385        217          B                0           20
+386        217          C                0           20
+387        218          A               10           20
+388        219          A                0           35
+389        220          A                0           35
+390        220         IS                0            1
+391        221          A                0           35
+392        222          A                0           35
+393        223          A                0           35
+394        224          A                1           35
+395        225          A                0           35
+396        226          A               33           35
+397        227          A                0           35
+398        228          A               35           35
+399        229          A               19           35
+400        230          A               27           35
+401        231          A               33           35
+402        232          A                3           25
+403        232          B               12           25
+404        233          A                0           25
+405        234          A                0           25
+406        235          A                0           35
+407        235          B                0           35
+408        235          C                0           35
+409        236          F                0           35
+410        236          G                0           35
+411        236          H                0           35
+412        236          J                2           35
+413        236          L                0           35
+414        236          M                0           35
+415        236          N                0           35
+416        236          O                0           35
+417        237          A                7           35
+418        238          A               26           35
+419        239          A                3           35
+420        240          A                0           35
+421        241          A                0           35
+422        242          A               16           35
+423        243          A                0           20
+424        244          A               16           20
+425        245          A               25           35
+426        246          A                0           35
+427        246          B                0           35
+428        247          A               25           35
+429        248          A               26           35
+430        249          A               26           35
+431        250          A               33           35
+432        251          A               21           35
+433        252          A               34           35
+434        253          A               35           35
+435        254          A               21           25
+436        255          A               19           35
+437        256          A                0           35
+438        256          B                0           35
+439        256          D                0           35
+440        256          E                0           35
+441        256          G                1           35
+442        257          A                0           35
+443        257          C                3           35
+444        257          D                0           35
+445        258          A                8           35
+446        258          B               11           35
+447        259          A               24           35
+448        260          A                7           15
+449        260          B                1           15
+450        261          A                0           20
+451        261          B                0           20
+452        261          C                0           20
+453        261          D                3           20
+454        261          E                3           20
+455        261          F                0           20
+456        261          G                3           20
+457        262          A               24           35
+458        262          B               12           35
+459        262          C                0           35
+460        263          A               31           35
+461        264          A               30           35
+462        265          A               28           35
+463        266          A               28           35
+464        267          A               27           35
+465        268          A               30           35
+466        269          A               32           35
+467        270          A               19           20
+468        271          A               28           35
+469        272          A               31           35
+470        273          A               31           35
+471        274          A               14           15
+472        275          A               23           35
+473        276          A               32           35
+474        277          A                0           35
+475        277          B                0           35
+476        277          E                0           35
+477        278          A                0           35
+478        278          B               17           35
+479        279          A               12           35
+480        279          B               26           35
+481        280         IS                1            1
+482        281          B               18           35
+483        282          B                8           35
+484        283         IS                0            1
+485        284          A                6           35
+486        284          B               31           35
+487        285          A               22           35
+488        285          B                5           35
+489        286          A               12           35
+490        286          B               11           35
+491        287          A                4           35
+492        288          A               18           35
+493        289          A               22           35
+494        290          B               21           35
+495        291          A                0           35
+496        292          A                6           20
+497        293          A               31           35
+498        294          A                0           35
+499        295          A               10           35
+500        296          A                0           35
+501        297          A                0           35
+502        298          A                0           35
+503        298          B                0           35
+504        299          A               28           35
+505        300          A               21           35
+506        301          A               25           35
+507        302          A               24           35
+508        302          B               25           35
+509        302          C               21           35
+510        302          D                0           35
+511        303          A                0           35
+512        304          A               22           35
+513        304          B               32           35
+514        305          B               27           35
+515        305          C               27           35
+516        305          D               29           35
+517        306          B               31           35
+518        307          A               31           35
+519        308          A               31           35
+520        309          A               32           35
+521        310          A               14           20
+522        311          A               13           15
+523        312          A               34           35
+524        313          A               35           35
+525        314          A               31           35
+526        315          A               16           20
+527        316          A               35           35
+528        317          A               35           35
+529        318          A               34           35
+530        319          A               34           35
+531        320          A                0           35
+532        320          B                0           35
+533        320          C                0           35
+534        320          D                0           35
+535        320          E                0           35
+536        321          E                0           35
+537        321          F                0           35
+538        321          G                1           35
+539        321          H                0           35
+540        321          I                0           35
+541        321          J                0           35
+542        322          A               17           35
+543        322          B               13           35
+544        322          C                1           35
+545        323          A               17           35
+546        324          A                0           35
+547        324          B               12           35
+548        325          A               14           35
+549        326          A                3           35
+550        327          A                0           30
+551        327          B               23           30
+552        328          A               11           35
+553        328          B               17           35
+554        329          A                5           30
+555        330          A               18           35
+556        331          A                0           35
+557        332          A               29           35
+558        333          A                0           35
+559        334          A               11           35
+560        335          A                7           35
+561        336          A               24           35
+562        337          A               18           35
+563        338          A               11           35
+564        339         IS                0            1
+565        340          A                0           14
+566        340          B                0           15
+567        341          B                0           35
+568        341          C                0           35
+569        341          E                0           35
+570        341          F                0           35
+571        342          A                0           34
+572        342          B                0           34
+573        343          A                0           35
+574        344          A                0           25
+575        345          A                0           35
+576        346          A                0           35
+577        346          B                0           35
+578        347          A                0           35
+579        347          B                0           35
+580        348          A                0           35
+581        349          A                0           35
+582        349          B                0           35
+583        350          A               32           35
+584        350          B                0           35
+585        351          A                0           35
+586        352          A                0           25
+587        352          B                0           25
+588        353          A                0           35
+589        354          A                0           35
+590        354          B                0           35
+591        355          A                0           35
+592        356          A                0           25
+593        356          B                0           25
+594        357          A                0           35
+595        358          A                0           35
+596        359          A               12           35
+597        359          B                0           35
+598        360          A                0           35
+599        361          A                0           35
+600        361          B                0           35
+601        362          A               28           35
+602        362          B                0           35
+603        363          A                0           35
+604        364          A                4           35
+605        365          H                0           35
+606        365          I                3           35
+607        365          J                0           35
+608        365          K                0           35
+609        365          L                0           35
+610        365          M                0           35
+611        365          N                0           35
+612        365          O                0           35
+613        365          P                0           35
+614        365          Q                0           35
+615        366          A                0           35
+616        367          A                0           35
+617        368          A               21           35
+618        369          A                0           20
+619        370          A               32           35
+620        371          A               26           35
+621        372          A                0           30
+622        373          A               26           35
+623        374          A                7           35
+624        375          A                0           35
+625        376          A               25           35
+626        377          A                2           35
+627        378          A               23           35
+628        379          A                6           35
+629        380          A               20           35
+630        381          A               24           35
+631        382          A                0           35
+632        382          B                1           35
+633        382          F                0           35
+634        382          H                0           35
+635        382          I                0           35
+636        382          J                0           35
+637        383          A                0           15
+638        383          B                0           15
+639        383          C                0           15
+640        383          D               11           15
+641        383          E               12           15
+642        383          F                0           15
+643        383          G               11           15
+644        384          A                1           20
+645        384          B                0           20
+646        385          A               34           35
+647        386          A                1           35
+648        386          B               34           35
+649        386          C                8           35
+650        387          A               18           35
+651        388          A               35           35
+652        389          A                0           35
+653        389          B                1           35
+654        390          A                0           35
+655        391          A               34           35
+656        392          A                9           10
+657        393          A               33           35
+658        394          A               20           20
+659        395          A               12           15
+660        396          A                5           35
+661        397          A               32           35
+662        398          A                9           35
+663        399          K               30           35
+664        399          L                5           35
+665        400          D                9           35
+666        400          E                0           35
+667        400          F                2           35
+668        400          G               25           35
+669        400          H                0           35
+670        400          J                0           35
+671        400          K                0           35
+672        400          L                1           35
+673        400          M               27           35
+674        400          N               29           35
+675        401          A               29           35
+676        402          A               28           35
+677        403          A               29           35
+678        404          A               32           35
+679        405          A                0           25
+680        405          B                0           25
+681        405          C                0           25
+682        406          A               18           25
+683        406         AA                0           25
+684        406         AB                0           25
+685        406         AC                0           25
+686        406         AD                0           25
+687        406          B                0           25
+688        406         BB                0           25
+689        406          C                0           25
+690        406          D               16           25
+691        406          E                0           25
+692        406          G                0           25
+693        406         GG                0           25
+694        406          H                0           25
+695        406         HH                0           25
+696        406          I                0           25
+697        406         II                0           25
+698        406          J               11           25
+699        406         JJ                1           25
+700        406          K               16           25
+701        406         KK                0           25
+702        406          M                0           25
+703        406         MM                0           25
+704        406          N                0           25
+705        406         NN                5           25
+706        406          O                0           25
+707        406          P               22           25
+708        406         PP               18           25
+709        406          Q                8           25
+710        406         QQ               14           25
+711        406          R               25           25
+712        406         RR               21           25
+713        406          S                2           25
+714        406         SS                0           25
+715        406          T               23           25
+716        406         TT               13           25
+717        406          U               25           25
+718        406          V               17           25
+719        406          W                0           25
+720        406          Y               21           25
+721        406         YY               25           25
+722        406          Z               25           25
+723        406         ZZ               24           25
+
+Section Details:
+ id  section_id    location instructor start_time end_time
+  1           1  SBLOCKS312    B Sadiq   09:30:00 10:45:00
+  2           2  SBLOCKS312     S Butt   11:00:00 12:15:00
+  3           3  SBLOCKS312    R Anjum   11:00:00 11:50:00
+  4           4  SBLOCKS312     K Muaz   12:30:00 13:45:00
+  5           5  SBLOCKS312    S Dogar   12:00:00 12:50:00
+  6           6  SBLOCKS312    M Imran   08:00:00 09:15:00
+  7           7  SBLOCKS312     A Khan   10:00:00 10:50:00
+  8           8  SBLOCKS416  R Siddiqi   09:00:00 09:50:00
+  9           9  SBLOCKS416  R Siddiqi   09:30:00 10:45:00
+ 10          10  SBLOCKS416     S Butt   08:00:00 08:50:00
+ 11          11  SBLOCKS416    S Dogar   10:00:00 10:50:00
+ 12          12  SBLOCKS416    S Dogar   11:00:00 11:50:00
+ 13          13  SBLOCKS317  A Maqbool   10:00:00 10:50:00
+ 14          14  SBLOCKS320   S Hanook   14:00:00 14:50:00
+ 15          15  SBLOCKS313     A Khan   11:00:00 12:15:00
+ 16          16  SBLOCKS416    S Dogar   14:00:00 14:50:00
+ 17          17  SBLOCKS331      S Ali   09:00:00 09:50:00
+ 18          18  SBLOCKS425      S Ali   12:30:00 13:45:00
+ 19          19  SBLOCKS321   S Mehnaz   11:00:00 12:50:00
+ 20          20  SBLOCKS425   S Mehnaz   09:30:00 10:45:00
+ 21          21  SBLOCKS424    S Akram   11:00:00 12:15:00
+ 22          22  SBLOCKS425     S Butt   11:00:00 11:50:00
+ 23          23  SBLOCKS425     A Khan   14:00:00 14:50:00
+ 24          24  SBLOCKS416   A Arshad   11:00:00 12:15:00
+ 25          25  SBLOCKS321    B Sadiq   14:00:00 15:50:00
+ 26          26  SBLOCKS312   A Arshad   08:00:00 08:50:00
+ 27          27  SBLOCKS416  I Khokhar   12:00:00 12:50:00
+ 28          28  SBLOCKS331    M Imran   10:00:00 10:50:00
+ 29          29  SBLOCKS329  A Maqbool   09:30:00 10:45:00
+ 30          30  SBLOCKS329    M Irfan   11:00:00 11:50:00
+ 31          31  SBLOCKS329  M Hussain   10:00:00 10:50:00
+ 32          32  SBLOCKS329  M Hussain   11:00:00 12:15:00
+ 33          33  SBLOCKS329   M Yousaf   12:30:00 13:45:00
+ 34          34  SBLOCKS329   A Bashir   12:00:00 12:50:00
+ 35          35  SBLOCKS425     A Khan   09:00:00 09:50:00
+ 36          36  SBLOCKS425   M Yousaf   08:00:00 08:50:00
+ 37          37  SBLOCKS321   A Bashir   12:30:00 13:45:00
+ 38          38  SBLOCKS425   I Ul Haq   10:00:00 10:50:00
+ 39          39  SBLOCKS321    M Irfan   11:00:00 12:15:00
+ 40          40  SBLOCKS321  M Mustafa   10:00:00 10:50:00
+ 41          41  EBLOCKE328     R John   09:30:00 10:45:00
+ 42          42  EBLOCKE328     R John   14:00:00 15:15:00
+ 43          43  EBLOCKE328     R John   15:30:00 16:45:00
+ 44          44  EBLOCKE330   S Younas   10:00:00 10:50:00
+ 45          45  EBLOCKE330   S Younas   11:00:00 11:50:00
+ 46          46  EBLOCKE330   S Younas   12:00:00 12:50:00
+ 47          47  EBLOCKE330     R John   14:00:00 14:50:00
+ 48          48  EBLOCKE330     R John   15:00:00 15:50:00
+ 49          49  EBLOCKE343     R John   12:30:00 13:45:00
+ 50          50  EBLOCKE343     R John   14:00:00 15:15:00
+ 51          51  EBLOCKE343     R John   15:30:00 16:45:00
+ 52          52  EBLOCKE328     R John   08:00:00 08:50:00
+ 53          53  EBLOCKE343  S Azariah   09:00:00 09:50:00
+ 54          54  EBLOCKE343  S Azariah   10:00:00 10:50:00
+ 55          55  EBLOCKE343  S Azariah   11:00:00 11:50:00
+ 56          56  EBLOCKE328     R John   12:00:00 12:50:00
+ 57          57  EBLOCKE344   A George   12:30:00 13:45:00
+ 58          58  EBLOCKE344   A George   11:00:00 12:15:00
+ 59          59  EBLOCKE344   A George   14:00:00 15:15:00
+ 60          60  EBLOCKE344   A George   15:30:00 16:45:00
+ 61          61  EBLOCKE330   A Mughal   09:00:00 09:50:00
+ 62          62  EBLOCKE331   A Mughal   11:00:00 11:50:00
+ 63          63  EBLOCKE331   A Mughal   12:00:00 12:50:00
+ 64          64  EBLOCKE331     R John   14:00:00 14:50:00
+ 65          65  EBLOCKE331     R John   15:00:00 15:50:00
+ 66          66  EBLOCKE331   U Sharif   11:00:00 12:15:00
+ 67          67  EBLOCKE331   U Sharif   12:30:00 13:45:00
+ 68          68  EBLOCKE331   U Sharif   14:00:00 15:15:00
+ 69          69  EBLOCKE331   M Khalid   15:30:00 16:45:00
+ 70          70  EBLOCKE331    M Habib   09:00:00 09:50:00
+ 71          71  EBLOCKE331    M Habib   10:00:00 10:50:00
+ 72          72  EBLOCKE328    M Habib   14:00:00 14:50:00
+ 73          73  EBLOCKE328   U Sharif   15:00:00 15:50:00
+ 74          74  EBLOCKE328   U Sharif   16:00:00 16:50:00
+ 75          75  EBLOCKE328     R John   08:00:00 09:15:00
+ 76          76  EBLOCKE332     R John   11:00:00 12:15:00
+ 77          77  EBLOCKE330     R John   12:30:00 13:45:00
+ 78          78  EBLOCKE332 A Chughtai   12:30:00 13:45:00
+ 79          79  EBLOCKE330 A Chughtai   14:00:00 15:15:00
+ 80          80  EBLOCKE328     R John   09:00:00 09:50:00
+ 81          81  EBLOCKE332     R John   11:00:00 11:50:00
+ 82          82  EBLOCKE332     R John   12:00:00 12:50:00
+ 83          83  EBLOCKE332  F Tasneem   14:00:00 14:50:00
+ 84          84  EBLOCKE331     R John   09:30:00 10:45:00
+ 85          85  EBLOCKE332     R John   15:30:00 16:45:00
+ 86          86  EBLOCKE332     R John   15:00:00 15:50:00
+ 87          87  EBLOCKE332     R John   16:00:00 16:50:00
+ 88          88  EBLOCKE332     R John   14:00:00 15:15:00
+ 89          89  EBLOCKE333  F Tasneem   11:00:00 11:50:00
+ 90          90  EBLOCKE332    S Bilal   09:30:00 10:45:00
+ 91          91  EBLOCKE330    S Bilal   15:30:00 16:45:00
+ 92          92  EBLOCKE330     R John   16:00:00 16:50:00
+ 93          93  EBLOCKE330    S Bilal   08:00:00 09:15:00
+ 94          94  EBLOCKE038    S Bilal   11:00:00 12:15:00
+ 95          95  EBLOCKE331     R John   16:00:00 16:50:00
+ 96          96  EBLOCKE332     R John   10:00:00 10:50:00
+ 97          97  EBLOCKE333     R John   09:00:00 09:50:00
+ 98          98  EBLOCKE333     R John   12:00:00 12:50:00
+ 99          99  EBLOCKE343     R John   16:00:00 16:50:00
+100         100  EBLOCKE333    S Nazir   11:00:00 12:15:00
+101         101  EBLOCKE333    S Nazir   12:30:00 13:45:00
+102         102  EBLOCKE345     R John   09:30:00 10:45:00
+103         103  EBLOCKE038     R John   15:30:00 16:45:00
+104         104  EBLOCKE332     R John   09:00:00 09:50:00
+105         105  EBLOCKE333    I Nasir   14:00:00 14:50:00
+106         106  EBLOCKE333    I Nasir   15:00:00 15:50:00
+107         107  EBLOCKE343     R John   14:00:00 14:50:00
+108         108  EBLOCKE343     R John   15:00:00 15:50:00
+109         109  EBLOCKE343  F Tasneem   12:00:00 12:50:00
+110         110  EBLOCKE344 Naumaan Ch   09:30:00 10:45:00
+111         111  EBLOCKE345 Naumaan Ch   15:30:00 16:45:00
+112         112  EBLOCKE038 Naumaan Ch   14:00:00 15:15:00
+113         113  EBLOCKE038    F Malik   12:30:00 13:45:00
+114         114  EBLOCKE333   M Q Khan   15:30:00 16:45:00
+115         115  EBLOCKE333   M Q Khan   10:00:00 10:50:00
+116         116  EBLOCKE333   M Q Khan   16:00:00 16:50:00
+117         117  EBLOCKE344     R John   11:00:00 11:50:00
+118         118  EBLOCKE344   M Khalid   12:00:00 12:50:00
+119         119  EBLOCKE344   M Khalid   15:00:00 15:50:00
+120         120  EBLOCKE137   Z Bhutta   11:00:00 12:15:00
+121         121  EBLOCKE137   Z Bhutta   12:30:00 13:45:00
+122         122  EBLOCKE345  S Ephraim   14:00:00 15:15:00
+123         123  EBLOCKE345   M Khalid   12:30:00 13:45:00
+124         124  EBLOCKE344    B Usman   09:00:00 09:50:00
+125         125  EBLOCKE344    B Usman   10:00:00 10:50:00
+126         126  EBLOCKE344    B Usman   14:00:00 14:50:00
+127         127  EBLOCKE344    B Usman   16:00:00 16:50:00
+128         128  EBLOCKE345    B Usman   15:00:00 15:50:00
+129         129  EBLOCKE345     R John   11:00:00 12:15:00
+130         130  EBLOCKE333   M Q Khan   14:00:00 15:15:00
+131         131  SBLOCKS210    M Iqbal   11:00:00 12:15:00
+132         132  SBLOCKS148   M Asghar   11:00:00 12:50:00
+133         133  SBLOCKS210   H Khalid   12:30:00 13:45:00
+134         134  SBLOCKS210  A Zeeshan   14:00:00 15:15:00
+135         135  SBLOCKS210    S Azeem   09:00:00 09:50:00
+136         136  SBLOCKS210  M Rashida   12:00:00 12:50:00
+137         137  SBLOCKS210     H Abid   14:00:00 14:50:00
+138         138  SBLOCKS210   H Khalid   11:00:00 11:50:00
+139         139  SBLOCKS212    M Abbas   09:30:00 10:45:00
+140         140  SBLOCKS212    M Iqbal   12:30:00 13:45:00
+141         141  SBLOCKS109    AY khan   12:00:00 12:50:00
+142         142  SBLOCKS212  A Zeeshan   10:00:00 10:50:00
+143         143  SBLOCKS213  M Rashida   09:30:00 10:45:00
+144         144  SBLOCKS135   H Khalid   14:00:00 15:50:00
+145         145  SBLOCKS210    M Abbas   15:00:00 15:50:00
+146         146  SBLOCKS212    AY khan   14:00:00 15:15:00
+147         147  SBLOCKS212    M Qamar   11:00:00 11:50:00
+148         148  SBLOCKS138    S Azeem   11:00:00 12:50:00
+149         149  SBLOCKS212    M Iqbal   15:00:00 15:50:00
+150         150  SBLOCKS212    D Ahmed   09:00:00 09:50:00
+151         151  SBLOCKS213   S Jelani   10:00:00 10:50:00
+152         152  SBLOCKS213   M Asghar   14:00:00 15:15:00
+153         153  SBLOCKS212    M Abbas   14:00:00 14:50:00
+154         154  SBLOCKS212  A Zeeshan   08:00:00 09:15:00
+155         155  SBLOCKS213    M Qamar   12:00:00 12:50:00
+156         156  SBLOCKS210  M Rashida   10:00:00 10:50:00
+157         157  SBLOCKS210    C Munir   11:00:00 11:50:00
+158         158  SBLOCKS210    D Ahmed   08:00:00 08:50:00
+159         159  SBLOCKS135   S Jelani   11:00:00 12:50:00
+160         160  SBLOCKS213     H Abid   15:00:00 15:50:00
+161         163  EBLOCKE040      M Wei   09:30:00 10:45:00
+162         164  SBLOCKS320    Z Malik   15:30:00 16:45:00
+163         165  SBLOCKS319    U Nisar   14:00:00 16:50:00
+164         166  SBLOCKS317   N Ashraf   09:00:00 09:50:00
+165         167  SBLOCKS219  F Shaheen   08:00:00 08:50:00
+166         168  SBLOCKS320   N Ashraf   10:00:00 10:50:00
+167         169  SBLOCKS218  F Shaheen   09:30:00 10:45:00
+168         170  SBLOCKS215   A Atique   12:00:00 12:50:00
+169         171  SBLOCKS320  S Qureshi   11:00:00 11:50:00
+170         172  SBLOCKS216   M Tamoor   11:00:00 12:15:00
+171         173  SBLOCKS216   M Tamoor   12:30:00 13:45:00
+172         174  SBLOCKS216   M Tamoor   14:00:00 15:15:00
+173         175  SBLOCKS317  S Qureshi   12:00:00 12:50:00
+174         176  SBLOCKS120  S Qureshi   10:00:00 10:50:00
+175         177 SBLOCKS027A   S Minhas   09:00:00 10:50:00
+176         178 SBLOCKS027A   S Minhas   14:00:00 15:50:00
+177         179  SBLOCKS319   S Abbasi   11:00:00 12:50:00
+178         180  SBLOCKS219   S Abbasi   11:00:00 12:50:00
+179         181  SBLOCKS319   S Abbasi   13:00:00 14:50:00
+180         182  SBLOCKS317  N Sabahat   11:00:00 11:50:00
+181         183  SBLOCKS316  N Sabahat   14:00:00 14:50:00
+182         184  SBLOCKS215     S Toor   14:00:00 14:50:00
+183         185  SBLOCKS219   A Khanum   15:00:00 16:50:00
+184         186  SBLOCKS216     A Khan   09:00:00 10:50:00
+185         187  SBLOCKS216     A Khan   11:00:00 12:50:00
+186         188  SBLOCKS319     M Butt   11:00:00 12:50:00
+187         189  SBLOCKS320 M Chaudhry   11:00:00 12:50:00
+188         190  SBLOCKS319 M Chaudhry   09:00:00 10:50:00
+189         191  SBLOCKS218 M Chaudhry   11:00:00 12:50:00
+190         192  SBLOCKS215   A Yousaf   08:00:00 08:50:00
+191         193  SBLOCKS316      R Bqa   11:00:00 12:15:00
+192         194  SBLOCKS316      R Bqa   08:00:00 09:15:00
+193         195  SBLOCKS316      R Bqa   09:30:00 10:45:00
+194         196  SBLOCKS219 A Basharat   09:00:00 10:50:00
+195         197  SBLOCKS218  M Mushtaq   11:00:00 12:50:00
+196         198  SBLOCKS120  M Mushtaq   09:00:00 10:50:00
+197         199  SBLOCKS215   A Khanum   11:00:00 12:50:00
+198         200  SBLOCKS215   A Khanum   13:00:00 14:50:00
+199         201  SBLOCKS215   M Tamoor   09:00:00 10:50:00
+200         202  SBLOCKS316  N Sabahat   15:00:00 15:50:00
+201         203  SBLOCKS316  N Sabahat   13:00:00 13:50:00
+202         204  SBLOCKS316  N Sabahat   15:00:00 15:50:00
+203         205  SBLOCKS120    Z Malik   11:00:00 12:50:00
+204         206  SBLOCKS317    S Nasim   15:30:00 16:45:00
+205         207  SBLOCKS316    S Nasim   08:00:00 08:50:00
+206         208  SBLOCKS216 A Basharat   08:00:00 08:50:00
+207         209  SBLOCKS317  M Mushtaq   14:00:00 14:50:00
+208         210  SBLOCKS319     M Butt   09:00:00 10:50:00
+209         211  SBLOCKS218     M Butt   14:00:00 15:50:00
+210         212  SBLOCKS120  H Shakeel   12:00:00 12:50:00
+211         215  EBLOCKE241     S Bano   09:30:00 10:45:00
+212         216  EBLOCKE140    A Azeem   09:00:00 09:50:00
+213         217  EBLOCKE140      M Ali   11:00:00 12:15:00
+214         218  EBLOCKE039      M Ali   09:00:00 09:50:00
+215         219  EBLOCKE243  R Wetmore   09:30:00 10:45:00
+216         220  EBLOCKE243     Z West   09:00:00 09:50:00
+217         221  EBLOCKE243     Z West   10:00:00 10:50:00
+218         222  EBLOCKE243  K Pervaiz   11:00:00 11:50:00
+219         223  EBLOCKE243  R Wetmore   12:00:00 12:50:00
+220         224  EBLOCKE243  R Wetmore   12:00:00 12:50:00
+221         225  EBLOCKE243        TBD   14:00:00 15:15:00
+222         226  EBLOCKE243  K Pervaiz   15:30:00 16:45:00
+223         227      TBDTBD  R Wetmore   15:30:00 16:45:00
+224         228  EBLOCKE243  R Wetmore   12:00:00 12:50:00
+225         229  EBLOCKE243     D Lanz   15:00:00 15:50:00
+226         230  EBLOCKE227    W Davey   15:30:00 16:45:00
+227         231  EBLOCKE347        TBD   11:00:00 11:50:00
+228         232  EBLOCKE243  K Pervaiz   17:00:00 18:15:00
+229         233  EBLOCKE243  K Pervaiz   11:00:00 12:15:00
+230         234  SBLOCKS219    U Nisar   09:30:00 10:45:00
+231         235  SBLOCKS319  M Mushtaq   15:30:00 16:45:00
+232         236  SBLOCKS120   A Yousaf   09:00:00 09:50:00
+233         237  SBLOCKS120    S Nasim   14:00:00 15:15:00
+234         238  SBLOCKS215   A Atique   11:00:00 11:50:00
+235         239  SBLOCKS316   A Ghulam   09:00:00 09:50:00
+236         240  SBLOCKS316      B Haq   12:00:00 12:50:00
+237         241  SBLOCKS412    K Azhar   15:00:00 15:50:00
+238         242  SBLOCKS413    S Iqbal   14:00:00 15:15:00
+239         243  SBLOCKS410    G Mehak   08:00:00 08:50:00
+240         244  SBLOCKS316 F Ibraheem   11:00:00 11:50:00
+241         245  SBLOCKS317 F Ibraheem   11:00:00 12:15:00
+242         246  SBLOCKS316 F Ibraheem   10:00:00 10:50:00
+243         247  SBLOCKS317      B Haq   09:30:00 10:45:00
+244         248  SBLOCKS317      B Haq   12:30:00 13:45:00
+245         249  SBLOCKS219   N Ashraf   11:00:00 12:50:00
+246         250  SBLOCKS410   A Nadeem   09:00:00 09:50:00
+247         251  SBLOCKS215   N Shahid   10:00:00 10:50:00
+248         252  SBLOCKS410    K Azhar   14:00:00 14:50:00
+249         253  SBLOCKS218   A Yousaf   15:00:00 16:50:00
+250         254  SBLOCKS218   A Yousaf   13:00:00 14:50:00
+251         255  SBLOCKS215     S Toor   15:00:00 15:50:00
+252         256  SBLOCKS320  H Shakeel   15:00:00 15:50:00
+253         257  SBLOCKS215  M Mushtaq   09:00:00 09:50:00
+254         258  SBLOCKS320    U Nisar   08:00:00 09:50:00
+255         259  SBLOCKS219  F Shaheen   08:00:00 09:15:00
+256         260  SBLOCKS320   S Minhas   12:00:00 12:50:00
+257         261  EBLOCKE202   M Bhatti   12:30:00 13:45:00
+258         262  EBLOCKE202   M Bhatti   10:00:00 10:50:00
+259         263  EBLOCKE202     M Noor   14:00:00 14:50:00
+260         264  EBLOCKE202     M Noor   15:00:00 15:50:00
+261         265  EBLOCKE202    S Waqar   11:00:00 12:15:00
+262         266  EBLOCKE202  N Ishtiaq   15:30:00 16:45:00
+263         267  EBLOCKE203    T Numan   11:00:00 11:50:00
+264         268  EBLOCKE203   A Batool   12:00:00 12:50:00
+265         269  EBLOCKE203  Z Manzoor   10:00:00 10:50:00
+266         270  EBLOCKE203    A Anwar   14:00:00 15:15:00
+267         271  EBLOCKE203    T Ahmed   09:00:00 09:50:00
+268         272  EBLOCKE203    H Ahsan   14:00:00 14:50:00
+269         273  EBLOCKE203    S Lodhi   11:00:00 12:15:00
+270         274  EBLOCKE203    R Ahmed   15:00:00 15:50:00
+271         275  EBLOCKE203    S Waqar   16:00:00 16:50:00
+272         276  EBLOCKE203    H Ahsan   12:30:00 13:45:00
+273         277  EBLOCKE204   A Batool   10:00:00 10:50:00
+274         278  EBLOCKE203    Z Iqbal   09:30:00 10:45:00
+275         279  EBLOCKE203    A Anwar   15:30:00 16:45:00
+276         280  EBLOCKE204    T Ahmed   11:00:00 11:50:00
+277         281  EBLOCKE204  Z Manzoor   11:00:00 12:15:00
+278         282  EBLOCKE204    T Numan   12:00:00 12:50:00
+279         283  EBLOCKE204    A Jalil   09:00:00 09:50:00
+280         284  EBLOCKE204    Z Iqbal   12:30:00 13:45:00
+281         285  EBLOCKE204  N Ishtiaq   14:00:00 14:50:00
+282         286  EBLOCKE204    R Ahmed   09:30:00 10:45:00
+283         288  EBLOCKE204   M Bhatti   14:00:00 15:15:00
+284         289  EBLOCKE241    U Hanif   12:00:00 12:50:00
+285         290  EBLOCKE241    M Tahir   11:00:00 11:50:00
+286         291  EBLOCKE241    S Lodhi   12:30:00 13:45:00
+287         292  EBLOCKE204    U Hanif   15:30:00 16:45:00
+288         293  EBLOCKE204    R Ahmed   16:00:00 16:50:00
+289         294  EBLOCKE205    H Ahsan   11:00:00 12:15:00
+290         295  EBLOCKE205   A Batool   12:30:00 13:45:00
+291         296  EBLOCKE205    S Lodhi   11:00:00 11:50:00
+292         297  EBLOCKE205   M Ayyubi   14:00:00 15:15:00
+293         298  EBLOCKE205    T Ahmed   09:30:00 10:45:00
+294         299  EBLOCKE205   A Batool   15:30:00 16:45:00
+295         300  EBLOCKE205   M Ayyubi   09:00:00 09:50:00
+296         301  EBLOCKE205  N Ishtiaq   10:00:00 10:50:00
+297         302  EBLOCKE205    M Tahir   12:00:00 12:50:00
+298         303  EBLOCKE204   G Shabir   15:00:00 15:50:00
+299         304  EBLOCKE205   G Shabir   14:00:00 14:50:00
+300         307  EBLOCKE101     A Khan   11:00:00 11:50:00
+301         308  EBLOCKE101    A Aslam   12:00:00 12:50:00
+302         309  EBLOCKE101  A Khokhar   14:00:00 14:50:00
+303         310  EBLOCKE101  R. Farooq   15:00:00 15:50:00
+304         311  EBLOCKE101  M. Thomas   09:30:00 10:45:00
+305         312  EBLOCKE101  A Khokhar   08:00:00 09:15:00
+306         313  EBLOCKE241  R. Farooq   11:00:00 12:15:00
+307         314  EBLOCKE101   J Hassan   12:30:00 13:45:00
+308         315  EBLOCKE101   S Burhan   15:30:00 16:45:00
+309         316  EBLOCKE102     A Khan   10:00:00 10:50:00
+310         317  EBLOCKE102  A Khokhar   11:00:00 11:50:00
+311         318  EBLOCKE102  A Khokhar   12:00:00 12:50:00
+312         319  EBLOCKE101   S Burhan   14:00:00 15:15:00
+313         320  EBLOCKE102   J Hassan   08:00:00 08:50:00
+314         321  EBLOCKE102    A Aslam   09:00:00 09:50:00
+315         322  EBLOCKE102     A Khan   14:00:00 14:50:00
+316         324  EBLOCKE214    N Ahmad   08:00:00 08:50:00
+317         325  EBLOCKE244      A Zia   09:30:00 10:45:00
+318         326  EBLOCKE230    F Syeda   08:00:00 08:50:00
+319         327  EBLOCKE230   S Qadeer   09:00:00 09:50:00
+320         328  EBLOCKE230    R Wasif   12:30:00 13:45:00
+321         329  EBLOCKE230  J C Imdad   14:00:00 15:15:00
+322         330  EBLOCKE244  T Bokhari   12:30:00 13:45:00
+323         331  EBLOCKE229   F Zaheer   09:00:00 09:50:00
+324         332  EBLOCKE039 Quratulaen   14:00:00 15:15:00
+325         333  EBLOCKE244    I Sayed   11:00:00 11:50:00
+326         334  EBLOCKE230    A Karim   15:00:00 15:50:00
+327         335  EBLOCKE230  S Maqbool   11:00:00 11:50:00
+328         336  EBLOCKE246    M Saleh   12:00:00 12:50:00
+329         337  EBLOCKE244      S Mir   12:30:00 13:45:00
+330         338  EBLOCKE246    I Sayed   15:00:00 15:50:00
+331         339  EBLOCKE243    F Syeda   08:00:00 09:15:00
+332         340  EBLOCKE230 Quratulaen   14:00:00 14:50:00
+333         341  EBLOCKE246   M Shahid   15:30:00 16:45:00
+334         342  EBLOCKE230   F Zaheer   12:00:00 12:50:00
+335         343  EBLOCKE246      S Mir   14:00:00 15:15:00
+336         344  EBLOCKE137    F Syeda   09:30:00 10:45:00
+337         345  EBLOCKE102  S Maqbool   09:30:00 10:45:00
+338         347  SBLOCKS424    S Akram   15:30:00 16:45:00
+339         348  SBLOCKS424    S Ilyas   10:00:00 10:50:00
+340         349  SBLOCKS424        TBD   08:00:00 08:50:00
+341         350  EBLOCKE347  K Shafiqu   11:00:00 12:15:00
+342         351  SBLOCKS320   S Hanook   14:00:00 14:50:00
+343         352  SBLOCKS424  S Machado   14:00:00 15:15:00
+344         353  SBLOCKS424  M Shahbaz   12:00:00 12:50:00
+345         354  SBLOCKS424    S Aslam   14:00:00 14:50:00
+346         355  SBLOCKS120    S Chung   15:00:00 15:50:00
+347         356  SBLOCKS138    S Azeem   11:00:00 12:50:00
+348         357  SBLOCKS424    S Akram   11:00:00 12:15:00
+349         358  SBLOCKS424    S Akram   09:30:00 10:45:00
+350         359  SBLOCKS424  S Machado   08:00:00 09:15:00
+351         360  SBLOCKS424   D Bakker   12:30:00 13:45:00
+352         361  SBLOCKS424    S Aslam   15:00:00 15:50:00
+353         362  SBLOCKS424  M Shahbaz   11:00:00 11:50:00
+354         363  SBLOCKS425    S Ilyas   12:00:00 12:50:00
+355         364  SBLOCKS317    S Ilyas   08:00:00 08:50:00
+356         366  EBLOCKE227    A Anwar   09:30:00 10:45:00
+357         367  EBLOCKE040    A Anwar   12:30:00 13:45:00
+358         368  EBLOCKE040    A Anwar   14:00:00 15:15:00
+359         369  EBLOCKE246  K Shakrul   09:00:00 09:50:00
+360         370  EBLOCKE246   H Batool   08:00:00 08:50:00
+361         371  EBLOCKE246  K Shafiqu   11:00:00 11:50:00
+362         372  EBLOCKE244   H Batool   08:00:00 09:15:00
+363         373  EBLOCKE242  K Shakrul   09:30:00 10:45:00
+364         374  EBLOCKE347  K Shafiqu   11:00:00 12:15:00
+365         375  EBLOCKE246  K Shakrul   10:00:00 10:50:00
+366         376  EBLOCKE246  K Shakrul   09:30:00 10:45:00
+367         377  EBLOCKE246     R Shah   12:30:00 13:45:00
+368         378  EBLOCKE246   H Batool   16:00:00 16:50:00
+369         379  EBLOCKE242  K Shafiqu   14:00:00 15:15:00
+370         381  EBLOCKE242  Dr M Atif   11:00:00 12:15:00
+371         384  EBLOCKE140    F Ahmad   08:00:00 09:15:00
+372         385  EBLOCKE041    F Ahmad   09:30:00 10:45:00
+373         386  EBLOCKE041    F Ahmad   11:00:00 12:15:00
+374         387  EBLOCKE041    F Ahmad   12:30:00 13:45:00
+375         388  EBLOCKE104    F Masih   09:30:00 10:45:00
+376         389  EBLOCKE104     U Ibad   15:00:00 15:50:00
+377         391  EBLOCKE104   S Sumbal   14:00:00 14:50:00
+378         392  EBLOCKE040 D C Norman   11:00:00 12:15:00
+379         393  EBLOCKE104    K Jawad   09:00:00 09:50:00
+380         394  EBLOCKE104    F Masih   11:00:00 12:15:00
+381         395  EBLOCKE104     U Ibad   11:00:00 11:50:00
+382         396  EBLOCKE104    A Zehra   12:30:00 13:45:00
+383         397  EBLOCKE104    K Jawad   12:00:00 12:50:00
+384         398  EBLOCKE039    S Hayat   11:00:00 12:15:00
+385         399  EBLOCKE104     U Ibad   10:00:00 10:50:00
+386         400  EBLOCKE104   S Sumbal   16:00:00 16:50:00
+387         402      TBDTBD    S Nazir   15:00:00 16:00:00
+388         403      TBDTBD   S Khaliq   15:00:00 16:00:00
+389         404      TBDTBD    S Nazir   15:00:00 16:00:00
+390         405      TBDTBD   S Khaliq   11:00:00 12:00:00
+391         406  EBLOCKE103     Z Nisa   08:00:00 08:50:00
+392         407  EBLOCKE103     Z Nisa   09:00:00 09:50:00
+393         408  EBLOCKE103     Z Nisa   10:00:00 10:50:00
+394         409  EBLOCKE228    A Naeem   14:00:00 15:15:00
+395         410  EBLOCKE228    N Ahmad   10:00:00 10:50:00
+396         411  EBLOCKE227    N Ahmad   11:00:00 11:50:00
+397         412  EBLOCKE228    H Ghani   15:00:00 15:50:00
+398         413  EBLOCKE228     Z Azam   11:00:00 11:50:00
+399         414  EBLOCKE228     Z Azam   12:00:00 12:50:00
+400         415  EBLOCKE229     Z Azam   14:00:00 15:15:00
+401         416  EBLOCKE229    H Ghani   16:00:00 16:50:00
+402         417  EBLOCKE228    H Ahmad   11:00:00 12:15:00
+403         418  EBLOCKE228    A Naeem   14:00:00 14:50:00
+404         419  EBLOCKE229    N Ahmad   14:00:00 14:50:00
+405         420  EBLOCKE229   A Rehman   10:00:00 10:50:00
+406         421  EBLOCKE228     Z Azam   09:30:00 10:45:00
+407         422  EBLOCKE229    H Ghani   12:30:00 13:45:00
+408         423  EBLOCKE039   S K Sook   09:30:00 10:45:00
+409         424  EBLOCKE039   S K Sook   12:30:00 13:45:00
+410         425  EBLOCKE229   A Fareed   11:00:00 12:15:00
+411         426  EBLOCKE229    F Aftab   09:30:00 10:45:00
+412         427  EBLOCKE230 A Alphonce   10:00:00 10:50:00
+413         428  EBLOCKE229   N Justin   12:00:00 12:50:00
+414         429  EBLOCKE230    A Wasim   16:00:00 16:50:00
+415         430  EBLOCKE041        TBD   10:00:00 10:50:00
+416         431  EBLOCKE229     R John   11:00:00 11:50:00
+417         432  EBLOCKE230    A Javed   11:00:00 12:15:00
+418         433  EBLOCKE230      M Zia   12:30:00 13:45:00
+419         434  EBLOCKE229   A Khalid   15:00:00 15:50:00
+420         436  SBLOCKS413    R Malik   15:30:00 16:45:00
+421         437  SBLOCKS412    F Jamil   09:00:00 09:50:00
+422         438  SBLOCKS410    K Azhar   12:00:00 12:50:00
+423         439  SBLOCKS412    F Jamil   08:00:00 09:15:00
+424         440  SBLOCKS412    G Mehak   09:30:00 10:45:00
+425         441  SBLOCKS413   A Ghulam   12:30:00 13:45:00
+426         442  SBLOCKS413    S Iqbal   09:00:00 09:50:00
+427         443  SBLOCKS410   A Nadeem   09:30:00 10:45:00
+428         444  SBLOCKS413    G Mehak   11:00:00 12:15:00
+429         445  SBLOCKS412   N Shahid   12:00:00 12:50:00
+430         446  SBLOCKS412    S Iqbal   12:30:00 13:45:00
+431         447  SBLOCKS410   A Nadeem   11:00:00 11:50:00
+432         448  SBLOCKS421   S Bashir   12:00:00 12:50:00
+433         449  SBLOCKS417     S Ayub   11:00:00 12:15:00
+434         450  SBLOCKS421   M Mughal   09:00:00 09:50:00
+435         451  SBLOCKS421        TBD   10:00:00 10:50:00
+436         452  SBLOCKS421    M Rasul   11:00:00 11:50:00
+437         453  SBLOCKS421        TBD   14:00:00 14:50:00
+438         454  SBLOCKS421    M Rasul   09:30:00 10:45:00
+439         455  SBLOCKS421   S Bashir   11:00:00 12:15:00
+440         456  SBLOCKS421        TBD   14:00:00 15:15:00
+441         457  SBLOCKS413   F Janjua   08:00:00 08:50:00
+442         458  SBLOCKS410    F Jamil   10:00:00 10:50:00
+443         459  SBLOCKS413   F Janjua   09:30:00 10:45:00
+444         460  SBLOCKS413   A Ghulam   12:00:00 12:50:00
+445         461  SBLOCKS413  W Hussain   11:00:00 11:50:00
+446         462  SBLOCKS416   A Ghulam   14:00:00 15:15:00
+447         463  SBLOCKS413 I Shafique   08:00:00 09:15:00
+448         464  SBLOCKS417      B Haq   10:00:00 10:50:00
+449         465  SBLOCKS413  W Hussain   14:00:00 15:40:00
+450         466  SBLOCKS410  A Qureshi   11:00:00 12:15:00
+451         467  SBLOCKS425  N Mushtaq   14:00:00 15:15:00
+452         468  SBLOCKS413  W Hussain   15:30:00 16:45:00
+453         469  SBLOCKS410 F Ibraheem   12:30:00 13:45:00
+454         470  SBLOCKS417   F Janjua   09:00:00 09:50:00
+455         471  SBLOCKS412   S Bashir   14:00:00 14:50:00
+456         472  SBLOCKS413  A Qureshi   14:00:00 15:15:00
+457         473  SBLOCKS412 I Shafique   10:00:00 10:50:00
+458         474  EBLOCKE139   F Jabeen   08:00:00 08:50:00
+459         475  EBLOCKE222   S Saleem   14:00:00 14:50:00
+460         476  EBLOCKE214 Dr S Abbas   11:00:00 12:15:00
+461         477  EBLOCKE222   M Batool   14:00:00 15:15:00
+462         478  EBLOCKE227   F Jabeen   14:00:00 14:50:00
+463         479  EBLOCKE221   F Jabeen   15:00:00 15:50:00
+464         480  EBLOCKE221   F Jabeen   16:00:00 16:50:00
+465         482  EBLOCKE222   F Jabeen   09:30:00 10:45:00
+466         483  EBLOCKE227   S. Zehra   14:00:00 15:15:00
+467         485  EBLOCKE222    A Malik   12:00:00 12:50:00
+468         486  EBLOCKE222   S. Zehra   15:00:00 15:50:00
+469         487  EBLOCKE227   M Batool   15:00:00 15:50:00
+470         488  EBLOCKE227   M Batool   12:00:00 12:50:00
+471         489  EBLOCKE227   F Jabeen   12:30:00 13:45:00
+472         490  EBLOCKE221   F Jabeen   09:30:00 10:45:00
+473         491  EBLOCKE222     A Khan   12:30:00 13:45:00
+474         492  EBLOCKE222    A Malik   11:00:00 12:15:00
+475         493  EBLOCKE221     A Amir   09:00:00 09:50:00
+476         494  EBLOCKE227   F Jabeen   10:00:00 10:50:00
+477         495  EBLOCKE222   S Saleem   11:00:00 11:50:00
+478         496    MCENTE01   F Jabeen   11:00:00 12:15:00
+479         498  EBLOCKE038       Team   15:00:00 18:00:00
+480         499  EBLOCKE038       Team   15:00:00 18:00:00
+481         500  EBLOCKE221    G Irfan   12:30:00 13:45:00
+482         501  EBLOCKE221    G Irfan   12:00:00 12:50:00
+483         502  EBLOCKE221   T Farouk   10:00:00 10:50:00
+484         503  EBLOCKE221   T Farouk   11:00:00 11:50:00
+485         504  EBLOCKE221    G Irfan   14:00:00 14:50:00
+486         505  EBLOCKE221   T Farouk   11:00:00 12:15:00
+487         506  EBLOCKE221 D C Norman   14:00:00 15:15:00
+488         507  SBLOCKS007  Dr Sufian   14:00:00 15:15:00
+489         508 SBLOCKS027A  Dr Sufian   14:00:00 15:50:00
+490         509  SBLOCKS007  Ab Rahman   10:00:00 10:50:00
+491         510  SBLOCKS016   A Rehman   11:00:00 11:50:00
+492         511  SBLOCKS039     S Shah   11:00:00 12:15:00
+493         512 SBLOCKS027B    H Latif   12:30:00 13:45:00
+494         513 SBLOCKS016B   A Rehman   09:30:00 10:45:00
+495         514 SBLOCKS027A   F Hameed   11:00:00 11:50:00
+496         515 SBLOCKS027A    H Latif   11:00:00 12:15:00
+497         516  SBLOCKS029     S Shah   14:00:00 15:50:00
+498         517  SBLOCKS039  S Shabbir   14:00:00 15:50:00
+499         518  SBLOCKS039     S Shah   10:00:00 10:50:00
+500         519  SBLOCKS029  S Shabbir   09:00:00 09:50:00
+501         520 SBLOCKS016B   L Kahlon   11:00:00 12:50:00
+502         521  SBLOCKS039   L Kahlon   14:00:00 15:15:00
+503         522  SBLOCKS039   A Rehman   08:00:00 08:50:00
+504         523 SBLOCKS016B  Dr H Shah   15:30:00 16:45:00
+505         524  SBLOCKS016   F Hameed   12:00:00 12:50:00
+506         525 SBLOCKS027A     S Shah   16:00:00 16:50:00
+507         526  SBLOCKS016   S Zaheer   12:30:00 13:45:00
+508         527 SBLOCKS016A  S Shabbir   09:30:00 10:45:00
+509         531  EBLOCKE104    F Masih   14:00:00 15:15:00
+510         532  EBLOCKE121    A Zehra   11:00:00 12:15:00
+511         533  EBLOCKE104     U Ibad   15:30:00 16:45:00
+512         534  EBLOCKE121   S Sumbal   12:00:00 12:50:00
+513         535  EBLOCKE121    K Jawad   11:00:00 11:50:00
+514         536  EBLOCKE213 A. Indrias   12:00:00 12:50:00
+515         537  EBLOCKE213  M Farooqi   14:00:00 15:15:00
+516         538  EBLOCKE213     S Awan   15:30:00 16:45:00
+517         539  EBLOCKE213  A Qureshi   14:00:00 14:50:00
+518         540  EBLOCKE213   S Sindhu   15:00:00 15:50:00
+519         541  EBLOCKE213   S Sindhu   16:00:00 16:50:00
+520         542  EBLOCKE214    M Mirza   14:00:00 14:50:00
+521         543  EBLOCKE039   S Sindhu   15:30:00 16:45:00
+522         544  EBLOCKE105 A. Indrias   09:00:00 09:50:00
+523         545  EBLOCKE105 M U Farooq   11:00:00 12:15:00
+524         546  EBLOCKE213  M Farooqi   12:30:00 13:45:00
+525         547  EBLOCKE214   S Sindhu   10:00:00 10:50:00
+526         548  EBLOCKE213     S Awan   11:00:00 12:15:00
+527         549  EBLOCKE213 M U Farooq   09:30:00 10:45:00
+528         550  EBLOCKE214 I Bokharee   12:00:00 12:50:00
+529         551  EBLOCKE105   S Sindhu   16:00:00 16:50:00
+530         552  EBLOCKE105 I Bokharee   14:00:00 14:50:00
+531         553  EBLOCKE105    Q Memon   12:30:00 13:45:00
+532         554  EBLOCKE214    Q Memon   14:00:00 15:15:00
+533         555  EBLOCKE105  A Qureshi   15:00:00 15:50:00
+534         556  EBLOCKE214   S Sindhu   11:00:00 11:50:00
+535         557  EBLOCKE214    M Mirza   15:00:00 15:50:00
+536         558  EBLOCKE213   M Younis   09:00:00 09:50:00
+537         559  EBLOCKE213   S Sindhu   08:00:00 08:50:00
+538         560  EBLOCKE214        TBD   16:00:00 16:50:00
+539         561  EBLOCKE214 M U Farooq   15:30:00 16:45:00
+540         562  EBLOCKE213 A. Indrias   11:00:00 11:50:00
+541         563  EBLOCKE214   S Sindhu   12:30:00 13:45:00
+542         565  EBLOCKE221    Q Memon   15:30:00 16:45:00
+543         566  EBLOCKE213   M Younis   10:00:00 10:50:00
+544         567  EBLOCKE102  N Ul Huda   15:00:00 15:50:00
+545         568  EBLOCKE102    K Tahir   16:00:00 16:50:00
+546         569  EBLOCKE102    M Munir   11:00:00 12:15:00
+547         570  EBLOCKE102     N Asif   12:30:00 13:45:00
+548         571  EBLOCKE102    K Malik   14:00:00 15:15:00
+549         572  EBLOCKE102   E Shahid   15:30:00 16:45:00
+550         573  EBLOCKE103    A Ateeq   11:00:00 11:50:00
+551         574  EBLOCKE103    K Tahir   12:00:00 12:50:00
+552         575  EBLOCKE103    A Ateeq   09:30:00 10:45:00
+553         576  EBLOCKE103  N Ul Huda   11:00:00 12:15:00
+554         577  EBLOCKE103   S Shahed   12:30:00 13:45:00
+555         578  EBLOCKE103    K Tahir   14:00:00 15:15:00
+556         579  EBLOCKE103   S Jabeen   15:30:00 16:45:00
+557         580  EBLOCKE121    A Ateeq   09:00:00 09:50:00
+558         581  EBLOCKE121   E Shahid   10:00:00 10:50:00
+559         582  EBLOCKE121    K Malik   12:30:00 13:45:00
+560         583  EBLOCKE121   S Jabeen   09:30:00 10:45:00
+561         584  EBLOCKE121   S Majeed   14:00:00 15:15:00
+562         585  EBLOCKE122   E Shahid   09:00:00 09:50:00
+563         586  EBLOCKE241    K Malik   15:00:00 16:50:00
+564         587  EBLOCKE122     N Asif   10:00:00 10:50:00
+565         588  EBLOCKE122    A Ateeq   12:00:00 12:50:00
+566         589  EBLOCKE122   S Jabeen   11:00:00 11:50:00
+567         590  EBLOCKE122   S Majeed   09:30:00 10:45:00
+568         591  EBLOCKE122   S Samuel   11:00:00 12:15:00
+569         592  EBLOCKE122    A Nazim   12:30:00 13:45:00
+570         593  EBLOCKE242     A Khan   11:00:00 12:50:00
+571         594  EBLOCKE122   S Shahed   15:30:00 16:45:00
+572         595  EBLOCKE126   S Majeed   09:00:00 09:50:00
+573         596  EBLOCKE126    M Munir   10:00:00 10:50:00
+574         597  EBLOCKE126     A Khan   11:00:00 11:50:00
+575         598  EBLOCKE126   S Shahed   12:00:00 12:50:00
+576         599  EBLOCKE126  N Ul Huda   14:00:00 14:50:00
+577         600  EBLOCKE126     N Asif   09:30:00 10:45:00
+578         601  EBLOCKE126   S Jabeen   15:00:00 15:50:00
+579         602  EBLOCKE126    M Munir   16:00:00 16:50:00
+580         603  EBLOCKE126    A Nazim   11:00:00 12:15:00
+581         605  EBLOCKE139      M Ali   14:00:00 14:50:00
+582         606  EBLOCKE139    A Azeem   08:00:00 09:15:00
+583         607  EBLOCKE139  S Rasheed   09:30:00 10:45:00
+584         608  EBLOCKE038   S Shahid   09:30:00 10:45:00
+585         609  EBLOCKE140      M Ali   09:30:00 10:45:00
+586         610  EBLOCKE139    S Athar   11:00:00 12:15:00
+587         611  EBLOCKE139    A Azeem   14:00:00 15:15:00
+588         612  EBLOCKE126     S Bano   12:30:00 13:45:00
+589         613  EBLOCKE139    S Athar   12:30:00 13:45:00
+590         614  EBLOCKE126  S Rasheed   14:00:00 15:15:00
+591         615  EBLOCKE139    S Athar   15:00:00 15:50:00
+592         616  EBLOCKE140   S Jafree   12:00:00 12:50:00
+593         617  EBLOCKE126   S Shahid   08:00:00 08:50:00
+594         618  EBLOCKE241     S Bano   09:30:00 10:45:00
+595         619  EBLOCKE139   S Shahid   15:30:00 16:45:00
+596         620  EBLOCKE241   S Jafree   10:00:00 10:50:00
+597         621  EBLOCKE140    A Azeem   09:00:00 09:50:00
+598         622  EBLOCKE140   T Fatima   14:00:00 14:50:00
+599         623  EBLOCKE140  S Rasheed   11:00:00 12:15:00
+600         624  EBLOCKE039     S Bano   10:00:00 10:50:00
+601         625  EBLOCKE140    A Azeem   15:30:00 16:45:00
+602         626  EBLOCKE139      M Ali   16:00:00 16:50:00
+603         627  EBLOCKE140   T Fatima   16:00:00 16:50:00
+604         628  EBLOCKE140    J Tariq   15:00:00 15:50:00
+605         629  EBLOCKE140    S Athar   12:30:00 13:45:00
+606         630  EBLOCKE140   S Jafree   13:00:00 13:50:00
+607         631  SBLOCKS420   S Hanook   08:00:00 08:50:00
+608         632  SBLOCKS420   S Hanook   09:00:00 09:50:00
+609         633  SBLOCKS420   S Hanook   14:00:00 14:50:00
+610         634  SBLOCKS420   S Hanook   09:30:00 10:45:00
+611         635  SBLOCKS420   S Hanook   11:00:00 12:15:00
+612         636  SBLOCKS420   S Hanook   12:30:00 13:45:00
+613         637  SBLOCKS421   M Mughal   09:00:00 09:50:00
+614         638  SBLOCKS421   S Hanook   10:00:00 10:50:00
+615         639  SBLOCKS421    M Rasul   11:00:00 11:50:00
+616         640  SBLOCKS421   S Hanook   14:00:00 14:50:00
+617         641  SBLOCKS421    M Rasul   09:30:00 10:45:00
+618         642  SBLOCKS421   S Bashir   11:00:00 12:15:00
+619         643  SBLOCKS421   S Hanook   14:00:00 15:15:00
+620         644  SBLOCKS421   S Bashir   12:00:00 12:50:00
+621         645  SBLOCKS417     S Ayub   11:00:00 12:15:00
+622         646  SBLOCKS320   A Sarwar   09:30:00 10:45:00
+623         647  SBLOCKS421    I Naqvi   12:30:00 13:45:00
+624         648  SBLOCKS417   S Hanook   08:00:00 08:50:00
+625         649  SBLOCKS421   A Sarwar   08:00:00 08:50:00
+626         650  SBLOCKS417   M Mughal   11:00:00 11:50:00
+627         651  SBLOCKS420     S Ayub   14:00:00 15:15:00
+628         652  SBLOCKS417   S Hanook   12:30:00 13:45:00
+629         653  SBLOCKS421   S Hanook   15:00:00 15:50:00
+630         654  SBLOCKS417   M Mughal   14:00:00 15:15:00
+631         655  SBLOCKS112     S Ayub   14:00:00 14:50:00
+632         656  SBLOCKS320   S Hanook   14:00:00 14:50:00
+633         657  SBLOCKS417    I Naqvi   14:00:00 14:50:00
+634         658  SBLOCKS412   S Bashir   14:00:00 14:50:00
+635         659  SBLOCKS425  N Mushtaq   14:00:00 15:15:00
+636         660  SBLOCKS417    I Naqvi   09:30:00 10:45:00
+637         661  SBLOCKS424    M Rasul   09:00:00 09:50:00
+638         662  SBLOCKS410  N Mushtaq   15:00:00 15:50:00
+639         663  SBLOCKS007        TBD   14:00:00 16:00:00
+640         664  SBLOCKS007  I Khokhar   14:00:00 16:00:00
+641         665  EBLOCKE040     A Virk   09:00:00 09:50:00
+642         666  EBLOCKE039   S Ashraf   12:00:00 12:50:00
+643         667  EBLOCKE039   S Ashraf   14:00:00 14:50:00
+644         668  EBLOCKE039    N Jamal   15:00:00 15:50:00
+645         669  EBLOCKE039  N Khokhar   11:00:00 11:50:00
+646         670  SBLOCKS008    M Tahir   12:30:00 13:45:00
+647         671  SBLOCKS109    A Anwar   14:00:00 15:15:00
+648         672  SBLOCKS115    S Tahir   11:00:00 12:15:00
+649         673  SBLOCKS111    S Tahir   14:00:00 15:15:00
+650         674  SBLOCKS109    S Tahir   15:30:00 16:45:00
+651         675  EBLOCKE105  N Khokhar   14:00:00 15:15:00
+652         676  SBLOCKS111    A Anwar   15:30:00 16:45:00
+653         677  EBLOCKE040     A Virk   12:00:00 12:50:00
+654         678  EBLOCKE105  N Khokhar   15:30:00 16:45:00
+655         679  EBLOCKE345   S Qadeer   08:00:00 09:15:00
+656         680  EBLOCKE345    S Hanif   14:00:00 14:50:00
+657         681  EBLOCKE345    F Aftab   08:00:00 08:50:00
+658         682  SBLOCKS416        TBD   15:30:00 16:45:00
+659         683  SBLOCKS007    F Saeed   08:00:00 08:50:00
+660         684  SBLOCKS007    F Saeed   08:00:00 09:15:00
+661         685  SBLOCKS112    F Aftab   08:00:00 09:15:00
+662         686  SBLOCKS007        TBD   12:00:00 12:50:00
+663         687  SBLOCKS007    F Saeed   11:00:00 11:50:00
+664         688  SBLOCKS112   A Fareed   12:30:00 13:45:00
+665         689  SBLOCKS112   A Fareed   10:00:00 10:50:00
+666         690  SBLOCKS112        TBD   09:00:00 09:50:00
+667         691  SBLOCKS112    N Ahmad   11:00:00 12:15:00
+668         692  SBLOCKS112    N Ahmad   14:00:00 15:15:00
+669         693  SBLOCKS213     R John   09:00:00 09:50:00
+670         694  SBLOCKS111     R John   10:00:00 10:50:00
+671         695  EBLOCKE105 A Alphonce   09:30:00 10:45:00
+672         696  SBLOCKS112 A Alphonce   11:00:00 11:50:00
+673         697  EBLOCKE347    A Wasim   12:00:00 12:50:00
+674         698  SBLOCKS417    A Wasim   15:30:00 16:45:00
+675         699  SBLOCKS420   A Khalid   15:30:00 16:45:00
+676         700  SBLOCKS412   A Khalid   16:00:00 16:50:00
+677         701  EBLOCKE347    A Karim   10:00:00 10:50:00
+678         702  SBLOCKS312    A Karim   14:00:00 15:15:00
+679         703  SBLOCKS112   N Justin   15:30:00 16:45:00
+680         704  SBLOCKS313   N Justin   14:00:00 15:15:00
+681         705  SBLOCKS112        TBD   16:00:00 16:50:00
+682         706  SBLOCKS313        TBD   12:30:00 13:45:00
+683         707  SBLOCKS313  T Bokhari   08:00:00 08:50:00
+684         708  SBLOCKS420  T Bokhari   15:00:00 15:50:00
+685         709  SBLOCKS312    M Saleh   14:00:00 14:50:00
+686         710  SBLOCKS316    M Saleh   14:00:00 15:15:00
+687         711  SBLOCKS412        TBD   08:00:00 09:15:00
+688         712  EBLOCKE347    N Ahmad   12:30:00 13:45:00
+689         713  EBLOCKE347    F Saeed   09:00:00 09:50:00
+690         714  EBLOCKE347    A Javed   09:30:00 10:45:00
+691         715  SBLOCKS410      M Zia   15:30:00 16:45:00
+692         716  SBLOCKS317      M Zia   14:00:00 15:15:00
+693         717  SBLOCKS213        TBD   08:00:00 08:50:00
+694         718  SBLOCKS410    R Wasif   14:00:00 15:15:00
+695         719  EBLOCKE105      M Zia   11:00:00 11:50:00
+696         720  EBLOCKE333        TBD   09:30:00 10:45:00
+697         721  SBLOCKS416        TBD   15:00:00 15:50:00
+698         722  EBLOCKE205        TBD   15:00:00 15:50:00
+699         723  SBLOCKS210        TBD   16:00:00 16:50:00
+
+Section Days:
+  id  section_id day
+   1           1   T
+   2           1   R
+   3           2   T
+   4           2   R
+   5           3   M
+   6           3   W
+   7           3   F
+   8           4   T
+   9           4   R
+  10           5   M
+  11           5   W
+  12           5   F
+  13           6   T
+  14           6   R
+  15           7   M
+  16           7   W
+  17           7   F
+  18           8   M
+  19           8   W
+  20           8   F
+  21           9   T
+  22           9   R
+  23          10   M
+  24          10   W
+  25          10   F
+  26          11   M
+  27          11   W
+  28          11   F
+  29          12   M
+  30          12   W
+  31          12   F
+  32          13   M
+  33          13   W
+  34          13   F
+  35          14   M
+  36          14   W
+  37          14   F
+  38          15   T
+  39          15   R
+  40          16   M
+  41          16   W
+  42          16   F
+  43          17   M
+  44          17   W
+  45          17   F
+  46          18   T
+  47          18   R
+  48          19   M
+  49          20   T
+  50          20   R
+  51          21   T
+  52          21   R
+  53          22   M
+  54          22   W
+  55          22   F
+  56          23   M
+  57          23   W
+  58          23   F
+  59          24   T
+  60          24   R
+  61          25   M
+  62          26   M
+  63          26   W
+  64          26   F
+  65          27   M
+  66          27   W
+  67          27   F
+  68          28   M
+  69          28   W
+  70          28   F
+  71          29   T
+  72          29   R
+  73          30   M
+  74          30   W
+  75          30   F
+  76          31   M
+  77          31   W
+  78          31   F
+  79          32   T
+  80          32   R
+  81          33   T
+  82          33   R
+  83          34   M
+  84          34   W
+  85          34   F
+  86          35   M
+  87          35   W
+  88          35   F
+  89          36   M
+  90          36   W
+  91          36   F
+  92          37   T
+  93          37   R
+  94          38   M
+  95          38   W
+  96          38   F
+  97          39   T
+  98          39   R
+  99          40   M
+ 100          40   W
+ 101          40   F
+ 102          41   T
+ 103          41   R
+ 104          42   T
+ 105          42   R
+ 106          43   T
+ 107          43   R
+ 108          44   M
+ 109          44   W
+ 110          44   F
+ 111          45   M
+ 112          45   W
+ 113          45   F
+ 114          46   M
+ 115          46   W
+ 116          46   F
+ 117          47   M
+ 118          47   W
+ 119          47   F
+ 120          48   M
+ 121          48   W
+ 122          48   F
+ 123          49   T
+ 124          49   R
+ 125          50   T
+ 126          50   R
+ 127          51   T
+ 128          51   R
+ 129          52   M
+ 130          52   W
+ 131          52   F
+ 132          53   M
+ 133          53   W
+ 134          53   F
+ 135          54   M
+ 136          54   W
+ 137          54   F
+ 138          55   M
+ 139          55   W
+ 140          55   F
+ 141          56   M
+ 142          56   W
+ 143          56   F
+ 144          57   T
+ 145          57   R
+ 146          58   T
+ 147          58   R
+ 148          59   T
+ 149          59   R
+ 150          60   T
+ 151          60   R
+ 152          61   M
+ 153          61   W
+ 154          61   F
+ 155          62   M
+ 156          62   W
+ 157          62   F
+ 158          63   M
+ 159          63   W
+ 160          63   F
+ 161          64   M
+ 162          64   W
+ 163          64   F
+ 164          65   M
+ 165          65   W
+ 166          65   F
+ 167          66   T
+ 168          66   R
+ 169          67   T
+ 170          67   R
+ 171          68   T
+ 172          68   R
+ 173          69   T
+ 174          69   R
+ 175          70   M
+ 176          70   W
+ 177          70   F
+ 178          71   M
+ 179          71   W
+ 180          71   F
+ 181          72   M
+ 182          72   W
+ 183          72   F
+ 184          73   M
+ 185          73   W
+ 186          73   F
+ 187          74   M
+ 188          74   W
+ 189          74   F
+ 190          75   T
+ 191          75   R
+ 192          76   T
+ 193          76   R
+ 194          77   T
+ 195          77   R
+ 196          78   T
+ 197          78   R
+ 198          79   T
+ 199          79   R
+ 200          80   M
+ 201          80   W
+ 202          80   F
+ 203          81   M
+ 204          81   W
+ 205          81   F
+ 206          82   M
+ 207          82   W
+ 208          82   F
+ 209          83   M
+ 210          83   W
+ 211          83   F
+ 212          84   T
+ 213          84   R
+ 214          85   T
+ 215          85   R
+ 216          86   M
+ 217          86   W
+ 218          86   F
+ 219          87   M
+ 220          87   W
+ 221          87   F
+ 222          88   T
+ 223          88   R
+ 224          89   M
+ 225          89   W
+ 226          89   F
+ 227          90   T
+ 228          90   R
+ 229          91   T
+ 230          91   R
+ 231          92   M
+ 232          92   W
+ 233          92   F
+ 234          93   T
+ 235          93   R
+ 236          94   T
+ 237          94   R
+ 238          95   M
+ 239          95   W
+ 240          95   F
+ 241          96   M
+ 242          96   W
+ 243          96   F
+ 244          97   M
+ 245          97   W
+ 246          97   F
+ 247          98   M
+ 248          98   W
+ 249          98   F
+ 250          99   M
+ 251          99   W
+ 252          99   F
+ 253         100   T
+ 254         100   R
+ 255         101   T
+ 256         101   R
+ 257         102   T
+ 258         102   R
+ 259         103   T
+ 260         103   R
+ 261         104   M
+ 262         104   W
+ 263         104   F
+ 264         105   M
+ 265         105   W
+ 266         105   F
+ 267         106   M
+ 268         106   W
+ 269         106   F
+ 270         107   M
+ 271         107   W
+ 272         107   F
+ 273         108   M
+ 274         108   W
+ 275         108   F
+ 276         109   M
+ 277         109   W
+ 278         109   F
+ 279         110   T
+ 280         110   R
+ 281         111   T
+ 282         111   R
+ 283         112   T
+ 284         112   R
+ 285         113   T
+ 286         113   R
+ 287         114   T
+ 288         114   R
+ 289         115   M
+ 290         115   W
+ 291         115   F
+ 292         116   M
+ 293         116   W
+ 294         116   F
+ 295         117   M
+ 296         117   W
+ 297         117   F
+ 298         118   M
+ 299         118   W
+ 300         118   F
+ 301         119   M
+ 302         119   W
+ 303         119   F
+ 304         120   T
+ 305         120   R
+ 306         121   T
+ 307         121   R
+ 308         122   T
+ 309         122   R
+ 310         123   T
+ 311         123   R
+ 312         124   M
+ 313         124   W
+ 314         124   F
+ 315         125   M
+ 316         125   W
+ 317         125   F
+ 318         126   M
+ 319         126   W
+ 320         126   F
+ 321         127   M
+ 322         127   W
+ 323         127   F
+ 324         128   M
+ 325         128   W
+ 326         128   F
+ 327         129   T
+ 328         129   R
+ 329         130   T
+ 330         130   R
+ 331         131   T
+ 332         131   R
+ 333         132   M
+ 334         133   T
+ 335         133   R
+ 336         134   T
+ 337         134   R
+ 338         135   M
+ 339         135   W
+ 340         135   F
+ 341         136   M
+ 342         136   W
+ 343         136   F
+ 344         137   M
+ 345         137   W
+ 346         137   F
+ 347         138   M
+ 348         138   W
+ 349         138   F
+ 350         139   T
+ 351         139   R
+ 352         140   T
+ 353         140   R
+ 354         141   M
+ 355         141   W
+ 356         141   F
+ 357         142   M
+ 358         142   W
+ 359         142   F
+ 360         143   T
+ 361         143   R
+ 362         144   M
+ 363         145   M
+ 364         145   W
+ 365         145   F
+ 366         146   T
+ 367         146   R
+ 368         147   M
+ 369         147   W
+ 370         147   F
+ 371         148   M
+ 372         149   M
+ 373         149   W
+ 374         149   F
+ 375         150   M
+ 376         150   W
+ 377         150   F
+ 378         151   M
+ 379         151   W
+ 380         151   F
+ 381         152   T
+ 382         152   R
+ 383         153   M
+ 384         153   W
+ 385         153   F
+ 386         154   T
+ 387         154   R
+ 388         155   M
+ 389         155   W
+ 390         155   F
+ 391         156   M
+ 392         156   W
+ 393         156   F
+ 394         157   M
+ 395         157   W
+ 396         157   F
+ 397         158   M
+ 398         158   W
+ 399         158   F
+ 400         159   M
+ 401         160   M
+ 402         160   W
+ 403         160   F
+ 404         163   T
+ 405         163   R
+ 406         164   T
+ 407         164   R
+ 408         165   M
+ 409         166   M
+ 410         166   W
+ 411         166   F
+ 412         167   M
+ 413         167   W
+ 414         167   F
+ 415         168   M
+ 416         168   W
+ 417         168   F
+ 418         169   T
+ 419         169   R
+ 420         170   M
+ 421         170   W
+ 422         170   F
+ 423         171   M
+ 424         171   W
+ 425         171   F
+ 426         172   T
+ 427         172   R
+ 428         173   T
+ 429         173   R
+ 430         174   T
+ 431         174   R
+ 432         175   M
+ 433         175   W
+ 434         175   F
+ 435         176   M
+ 436         176   W
+ 437         176   F
+ 438         177   T
+ 439         178   T
+ 440         179   T
+ 441         179   R
+ 442         180   W
+ 443         180   F
+ 444         181   T
+ 445         181   R
+ 446         182   M
+ 447         182   W
+ 448         182   F
+ 449         183   M
+ 450         183   W
+ 451         183   F
+ 452         184   M
+ 453         184   W
+ 454         184   F
+ 455         185   T
+ 456         185   R
+ 457         186   W
+ 458         187   W
+ 459         188   M
+ 460         188   W
+ 461         189   T
+ 462         189   R
+ 463         190   T
+ 464         191   M
+ 465         191   W
+ 466         192   M
+ 467         192   W
+ 468         192   F
+ 469         193   T
+ 470         193   R
+ 471         194   T
+ 472         194   R
+ 473         195   T
+ 474         195   R
+ 475         196   M
+ 476         197   T
+ 477         197   R
+ 478         198   T
+ 479         198   R
+ 480         199   T
+ 481         200   T
+ 482         201   T
+ 483         202   M
+ 484         203   W
+ 485         204   F
+ 486         205   T
+ 487         205   R
+ 488         206   T
+ 489         206   R
+ 490         207   M
+ 491         207   W
+ 492         207   F
+ 493         208   M
+ 494         208   W
+ 495         208   F
+ 496         209   M
+ 497         209   W
+ 498         209   F
+ 499         210   M
+ 500         210   W
+ 501         211   M
+ 502         212   M
+ 503         212   W
+ 504         212   F
+ 505         215   T
+ 506         215   R
+ 507         216   M
+ 508         216   W
+ 509         216   F
+ 510         217   T
+ 511         217   R
+ 512         218   M
+ 513         218   W
+ 514         218   F
+ 515         219   T
+ 516         219   R
+ 517         220   M
+ 518         220   W
+ 519         220   F
+ 520         221   M
+ 521         221   W
+ 522         221   F
+ 523         222   M
+ 524         222   W
+ 525         222   F
+ 526         223   M
+ 527         224   W
+ 528         225   T
+ 529         225   R
+ 530         226   T
+ 531         226   R
+ 532         227   T
+ 533         227   R
+ 534         228   F
+ 535         229   M
+ 536         229   W
+ 537         229   F
+ 538         230   T
+ 539         230   R
+ 540         231   M
+ 541         231   W
+ 542         231   F
+ 543         232   T
+ 544         232   R
+ 545         233   T
+ 546         233   R
+ 547         234   T
+ 548         234   R
+ 549         235   T
+ 550         235   R
+ 551         236   M
+ 552         236   W
+ 553         236   F
+ 554         237   T
+ 555         237   R
+ 556         238   M
+ 557         238   W
+ 558         238   F
+ 559         239   M
+ 560         239   W
+ 561         239   F
+ 562         240   M
+ 563         240   W
+ 564         240   F
+ 565         241   M
+ 566         241   W
+ 567         241   F
+ 568         242   T
+ 569         242   R
+ 570         243   M
+ 571         243   W
+ 572         243   F
+ 573         244   M
+ 574         244   W
+ 575         244   F
+ 576         245   T
+ 577         245   R
+ 578         246   M
+ 579         246   W
+ 580         246   F
+ 581         247   T
+ 582         247   R
+ 583         248   T
+ 584         248   R
+ 585         249   M
+ 586         250   M
+ 587         250   W
+ 588         250   F
+ 589         251   M
+ 590         251   W
+ 591         251   F
+ 592         252   M
+ 593         252   W
+ 594         252   F
+ 595         253   T
+ 596         253   R
+ 597         254   T
+ 598         255   M
+ 599         255   W
+ 600         255   F
+ 601         256   M
+ 602         256   W
+ 603         256   F
+ 604         257   M
+ 605         257   W
+ 606         257   F
+ 607         258   M
+ 608         258   W
+ 609         259   T
+ 610         259   R
+ 611         260   M
+ 612         260   W
+ 613         260   F
+ 614         261   T
+ 615         261   R
+ 616         262   M
+ 617         262   W
+ 618         262   F
+ 619         263   M
+ 620         263   W
+ 621         263   F
+ 622         264   M
+ 623         264   W
+ 624         264   F
+ 625         265   T
+ 626         265   R
+ 627         266   T
+ 628         266   R
+ 629         267   M
+ 630         267   W
+ 631         267   F
+ 632         268   M
+ 633         268   W
+ 634         268   F
+ 635         269   M
+ 636         269   W
+ 637         269   F
+ 638         270   T
+ 639         270   R
+ 640         271   M
+ 641         271   W
+ 642         271   F
+ 643         272   M
+ 644         272   W
+ 645         272   F
+ 646         273   T
+ 647         273   R
+ 648         274   M
+ 649         274   W
+ 650         274   F
+ 651         275   M
+ 652         275   W
+ 653         275   F
+ 654         276   T
+ 655         276   R
+ 656         277   M
+ 657         277   W
+ 658         277   F
+ 659         278   T
+ 660         278   R
+ 661         279   T
+ 662         279   R
+ 663         280   M
+ 664         280   W
+ 665         280   F
+ 666         281   T
+ 667         281   R
+ 668         282   M
+ 669         282   W
+ 670         282   F
+ 671         283   M
+ 672         283   W
+ 673         283   F
+ 674         284   T
+ 675         284   R
+ 676         285   M
+ 677         285   W
+ 678         285   F
+ 679         286   T
+ 680         286   R
+ 681         288   T
+ 682         288   R
+ 683         289   M
+ 684         289   W
+ 685         289   F
+ 686         290   M
+ 687         290   W
+ 688         290   F
+ 689         291   T
+ 690         291   R
+ 691         292   T
+ 692         292   R
+ 693         293   M
+ 694         293   W
+ 695         293   F
+ 696         294   T
+ 697         294   R
+ 698         295   T
+ 699         295   R
+ 700         296   M
+ 701         296   W
+ 702         296   F
+ 703         297   T
+ 704         297   R
+ 705         298   T
+ 706         298   R
+ 707         299   T
+ 708         299   R
+ 709         300   M
+ 710         300   W
+ 711         300   F
+ 712         301   M
+ 713         301   W
+ 714         301   F
+ 715         302   M
+ 716         302   W
+ 717         302   F
+ 718         303   M
+ 719         303   W
+ 720         303   F
+ 721         304   M
+ 722         304   W
+ 723         304   F
+ 724         307   M
+ 725         307   W
+ 726         307   F
+ 727         308   M
+ 728         308   W
+ 729         308   F
+ 730         309   M
+ 731         309   W
+ 732         309   F
+ 733         310   M
+ 734         310   W
+ 735         310   F
+ 736         311   T
+ 737         311   R
+ 738         312   T
+ 739         312   R
+ 740         313   T
+ 741         313   R
+ 742         314   T
+ 743         314   R
+ 744         315   T
+ 745         315   R
+ 746         316   M
+ 747         316   W
+ 748         316   F
+ 749         317   M
+ 750         317   W
+ 751         317   F
+ 752         318   M
+ 753         318   W
+ 754         318   F
+ 755         319   T
+ 756         319   R
+ 757         320   M
+ 758         320   W
+ 759         320   F
+ 760         321   M
+ 761         321   W
+ 762         321   F
+ 763         322   M
+ 764         322   W
+ 765         322   F
+ 766         324   M
+ 767         324   W
+ 768         324   F
+ 769         325   T
+ 770         325   R
+ 771         326   M
+ 772         326   W
+ 773         326   F
+ 774         327   M
+ 775         327   W
+ 776         327   F
+ 777         328   T
+ 778         328   R
+ 779         329   T
+ 780         329   R
+ 781         330   T
+ 782         330   R
+ 783         331   M
+ 784         331   W
+ 785         331   F
+ 786         332   T
+ 787         332   R
+ 788         333   M
+ 789         333   W
+ 790         333   F
+ 791         334   M
+ 792         334   W
+ 793         334   F
+ 794         335   M
+ 795         335   W
+ 796         335   F
+ 797         336   M
+ 798         336   W
+ 799         336   F
+ 800         337   T
+ 801         337   R
+ 802         338   M
+ 803         338   W
+ 804         338   F
+ 805         339   T
+ 806         339   R
+ 807         340   M
+ 808         340   W
+ 809         340   F
+ 810         341   T
+ 811         341   R
+ 812         342   M
+ 813         342   W
+ 814         342   F
+ 815         343   T
+ 816         343   R
+ 817         344   T
+ 818         344   R
+ 819         345   T
+ 820         345   R
+ 821         347   T
+ 822         347   R
+ 823         348   M
+ 824         348   W
+ 825         348   F
+ 826         349   M
+ 827         349   W
+ 828         349   F
+ 829         350   T
+ 830         350   R
+ 831         351   M
+ 832         351   W
+ 833         351   F
+ 834         352   T
+ 835         352   R
+ 836         353   M
+ 837         353   W
+ 838         353   F
+ 839         354   M
+ 840         354   W
+ 841         354   F
+ 842         355   M
+ 843         355   W
+ 844         355   F
+ 845         356   M
+ 846         357   T
+ 847         357   R
+ 848         358   T
+ 849         358   R
+ 850         359   T
+ 851         359   R
+ 852         360   T
+ 853         360   R
+ 854         361   M
+ 855         361   W
+ 856         361   F
+ 857         362   M
+ 858         362   W
+ 859         362   F
+ 860         363   M
+ 861         363   W
+ 862         363   F
+ 863         364   M
+ 864         364   W
+ 865         364   F
+ 866         366   T
+ 867         366   R
+ 868         367   T
+ 869         367   R
+ 870         368   T
+ 871         368   R
+ 872         369   M
+ 873         369   W
+ 874         369   F
+ 875         370   M
+ 876         370   W
+ 877         370   F
+ 878         371   M
+ 879         371   W
+ 880         371   F
+ 881         372   T
+ 882         372   R
+ 883         373   T
+ 884         373   R
+ 885         374   T
+ 886         374   R
+ 887         375   M
+ 888         375   W
+ 889         375   F
+ 890         376   T
+ 891         376   R
+ 892         377   T
+ 893         377   R
+ 894         378   M
+ 895         378   W
+ 896         378   F
+ 897         379   T
+ 898         379   R
+ 899         381   T
+ 900         381   R
+ 901         384   T
+ 902         384   R
+ 903         385   T
+ 904         385   R
+ 905         386   T
+ 906         386   R
+ 907         387   T
+ 908         387   R
+ 909         388   T
+ 910         388   R
+ 911         389   M
+ 912         389   W
+ 913         389   F
+ 914         391   M
+ 915         391   W
+ 916         391   F
+ 917         392   T
+ 918         392   R
+ 919         393   M
+ 920         393   W
+ 921         393   F
+ 922         394   T
+ 923         394   R
+ 924         395   M
+ 925         395   W
+ 926         395   F
+ 927         396   T
+ 928         396   R
+ 929         397   M
+ 930         397   W
+ 931         397   F
+ 932         398   T
+ 933         398   R
+ 934         399   M
+ 935         399   W
+ 936         399   F
+ 937         400   M
+ 938         400   W
+ 939         400   F
+ 940         402   T
+ 941         402   R
+ 942         403   M
+ 943         403   W
+ 944         404   M
+ 945         404   W
+ 946         405   T
+ 947         405   R
+ 948         406   M
+ 949         406   W
+ 950         406   F
+ 951         407   M
+ 952         407   W
+ 953         407   F
+ 954         408   M
+ 955         408   W
+ 956         408   F
+ 957         409   T
+ 958         409   R
+ 959         410   M
+ 960         410   W
+ 961         410   F
+ 962         411   M
+ 963         411   W
+ 964         411   F
+ 965         412   M
+ 966         412   W
+ 967         412   F
+ 968         413   M
+ 969         413   W
+ 970         413   F
+ 971         414   M
+ 972         414   W
+ 973         414   F
+ 974         415   T
+ 975         415   R
+ 976         416   M
+ 977         416   W
+ 978         416   F
+ 979         417   T
+ 980         417   R
+ 981         418   M
+ 982         418   W
+ 983         418   F
+ 984         419   M
+ 985         419   W
+ 986         419   F
+ 987         420   M
+ 988         420   W
+ 989         420   F
+ 990         421   T
+ 991         421   R
+ 992         422   T
+ 993         422   R
+ 994         423   T
+ 995         423   R
+ 996         424   T
+ 997         424   R
+ 998         425   T
+ 999         425   R
+1000         426   T
+1001         426   R
+1002         427   M
+1003         427   W
+1004         427   F
+1005         428   M
+1006         428   W
+1007         428   F
+1008         429   M
+1009         429   W
+1010         429   F
+1011         430   M
+1012         430   W
+1013         430   F
+1014         431   M
+1015         431   W
+1016         431   F
+1017         432   T
+1018         432   R
+1019         433   T
+1020         433   R
+1021         434   M
+1022         434   W
+1023         434   F
+1024         436   T
+1025         436   R
+1026         437   M
+1027         437   W
+1028         437   F
+1029         438   M
+1030         438   W
+1031         438   F
+1032         439   T
+1033         439   R
+1034         440   T
+1035         440   R
+1036         441   T
+1037         441   R
+1038         442   M
+1039         442   W
+1040         442   F
+1041         443   T
+1042         443   R
+1043         444   T
+1044         444   R
+1045         445   M
+1046         445   W
+1047         445   F
+1048         446   T
+1049         446   R
+1050         447   M
+1051         447   W
+1052         447   F
+1053         448   M
+1054         448   W
+1055         448   F
+1056         449   T
+1057         449   R
+1058         450   M
+1059         450   W
+1060         450   F
+1061         451   M
+1062         451   W
+1063         451   F
+1064         452   M
+1065         452   W
+1066         452   F
+1067         453   M
+1068         453   W
+1069         453   F
+1070         454   T
+1071         454   R
+1072         455   T
+1073         455   R
+1074         456   T
+1075         456   R
+1076         457   M
+1077         457   W
+1078         457   F
+1079         458   M
+1080         458   W
+1081         458   F
+1082         459   T
+1083         459   R
+1084         460   M
+1085         460   W
+1086         460   F
+1087         461   M
+1088         461   W
+1089         461   F
+1090         462   T
+1091         462   R
+1092         463   T
+1093         463   R
+1094         464   M
+1095         464   W
+1096         464   F
+1097         465   T
+1098         465   R
+1099         466   T
+1100         466   R
+1101         467   T
+1102         467   R
+1103         468   M
+1104         468   W
+1105         469   T
+1106         469   R
+1107         470   M
+1108         470   W
+1109         470   F
+1110         471   M
+1111         471   W
+1112         471   F
+1113         472   M
+1114         472   W
+1115         473   M
+1116         473   W
+1117         473   F
+1118         474   M
+1119         474   W
+1120         474   F
+1121         475   M
+1122         475   W
+1123         475   F
+1124         476   T
+1125         476   R
+1126         477   T
+1127         477   R
+1128         478   M
+1129         478   W
+1130         478   F
+1131         479   M
+1132         479   W
+1133         479   F
+1134         480   M
+1135         480   W
+1136         480   F
+1137         482   T
+1138         482   R
+1139         483   T
+1140         483   R
+1141         485   M
+1142         485   W
+1143         485   F
+1144         486   M
+1145         486   W
+1146         486   F
+1147         487   M
+1148         487   W
+1149         487   F
+1150         488   M
+1151         488   W
+1152         488   F
+1153         489   T
+1154         489   R
+1155         490   T
+1156         490   R
+1157         491   T
+1158         491   R
+1159         492   T
+1160         492   R
+1161         493   M
+1162         493   W
+1163         493   F
+1164         494   M
+1165         494   W
+1166         494   F
+1167         495   M
+1168         495   W
+1169         495   F
+1170         496   T
+1171         496   R
+1172         498   M
+1173         498   W
+1174         499   F
+1175         500   T
+1176         500   R
+1177         501   M
+1178         501   W
+1179         501   F
+1180         502   M
+1181         502   W
+1182         502   F
+1183         503   M
+1184         503   W
+1185         503   F
+1186         504   M
+1187         504   W
+1188         504   F
+1189         505   T
+1190         505   R
+1191         506   T
+1192         506   R
+1193         507   T
+1194         507   R
+1195         508   M
+1196         509   M
+1197         509   W
+1198         509   F
+1199         510   M
+1200         510   W
+1201         510   F
+1202         511   T
+1203         511   R
+1204         512   T
+1205         512   R
+1206         513   T
+1207         513   R
+1208         514   M
+1209         514   W
+1210         514   F
+1211         515   T
+1212         515   R
+1213         516   M
+1214         517   M
+1215         518   M
+1216         518   W
+1217         518   F
+1218         519   M
+1219         519   W
+1220         519   F
+1221         520   M
+1222         521   T
+1223         521   R
+1224         522   M
+1225         522   W
+1226         522   F
+1227         523   T
+1228         523   R
+1229         524   M
+1230         524   W
+1231         524   F
+1232         525   M
+1233         525   W
+1234         525   F
+1235         526   T
+1236         526   R
+1237         527   T
+1238         527   R
+1239         531   T
+1240         531   R
+1241         532   T
+1242         532   R
+1243         533   T
+1244         533   R
+1245         534   M
+1246         534   W
+1247         534   F
+1248         535   M
+1249         535   W
+1250         535   F
+1251         536   M
+1252         536   W
+1253         536   F
+1254         537   T
+1255         537   R
+1256         538   T
+1257         538   R
+1258         539   M
+1259         539   W
+1260         539   F
+1261         540   M
+1262         540   W
+1263         540   F
+1264         541   M
+1265         541   W
+1266         541   F
+1267         542   M
+1268         542   W
+1269         542   F
+1270         543   T
+1271         543   R
+1272         544   M
+1273         544   W
+1274         544   F
+1275         545   T
+1276         545   R
+1277         546   T
+1278         546   R
+1279         547   M
+1280         547   W
+1281         547   F
+1282         548   T
+1283         548   R
+1284         549   T
+1285         549   R
+1286         550   M
+1287         550   W
+1288         550   F
+1289         551   M
+1290         551   W
+1291         551   F
+1292         552   M
+1293         552   W
+1294         552   F
+1295         553   T
+1296         553   R
+1297         554   T
+1298         554   R
+1299         555   M
+1300         555   W
+1301         555   F
+1302         556   M
+1303         556   W
+1304         556   F
+1305         557   M
+1306         557   W
+1307         557   F
+1308         558   M
+1309         558   W
+1310         558   F
+1311         559   M
+1312         559   W
+1313         559   F
+1314         560   M
+1315         560   W
+1316         560   F
+1317         561   T
+1318         561   R
+1319         562   M
+1320         562   W
+1321         562   F
+1322         563   T
+1323         563   R
+1324         565   T
+1325         565   R
+1326         566   M
+1327         566   W
+1328         566   F
+1329         567   M
+1330         567   W
+1331         567   F
+1332         568   M
+1333         568   W
+1334         568   F
+1335         569   T
+1336         569   R
+1337         570   T
+1338         570   R
+1339         571   T
+1340         571   R
+1341         572   T
+1342         572   R
+1343         573   M
+1344         573   W
+1345         573   F
+1346         574   M
+1347         574   W
+1348         574   F
+1349         575   T
+1350         575   R
+1351         576   T
+1352         576   R
+1353         577   T
+1354         577   R
+1355         578   T
+1356         578   R
+1357         579   T
+1358         579   R
+1359         580   M
+1360         580   W
+1361         580   F
+1362         581   M
+1363         581   W
+1364         581   F
+1365         582   T
+1366         582   R
+1367         583   T
+1368         583   R
+1369         584   T
+1370         584   R
+1371         585   M
+1372         585   W
+1373         585   F
+1374         586   M
+1375         587   M
+1376         587   W
+1377         587   F
+1378         588   M
+1379         588   W
+1380         588   F
+1381         589   M
+1382         589   W
+1383         589   F
+1384         590   T
+1385         590   R
+1386         591   T
+1387         591   R
+1388         592   T
+1389         592   R
+1390         593   M
+1391         594   T
+1392         594   R
+1393         595   M
+1394         595   W
+1395         595   F
+1396         596   M
+1397         596   W
+1398         596   F
+1399         597   M
+1400         597   W
+1401         597   F
+1402         598   M
+1403         598   W
+1404         598   F
+1405         599   M
+1406         599   W
+1407         599   F
+1408         600   T
+1409         600   R
+1410         601   M
+1411         601   W
+1412         601   F
+1413         602   M
+1414         602   W
+1415         602   F
+1416         603   T
+1417         603   R
+1418         605   M
+1419         605   W
+1420         605   F
+1421         606   T
+1422         606   R
+1423         607   T
+1424         607   R
+1425         608   T
+1426         608   R
+1427         609   T
+1428         609   R
+1429         610   T
+1430         610   R
+1431         611   T
+1432         611   R
+1433         612   T
+1434         612   R
+1435         613   T
+1436         613   R
+1437         614   T
+1438         614   R
+1439         615   M
+1440         615   W
+1441         615   F
+1442         616   M
+1443         616   W
+1444         616   F
+1445         617   M
+1446         617   W
+1447         617   F
+1448         618   T
+1449         618   R
+1450         619   T
+1451         619   R
+1452         620   M
+1453         620   W
+1454         620   F
+1455         621   M
+1456         621   W
+1457         621   F
+1458         622   M
+1459         622   W
+1460         622   F
+1461         623   T
+1462         623   R
+1463         624   M
+1464         624   W
+1465         624   F
+1466         625   T
+1467         625   R
+1468         626   M
+1469         626   W
+1470         626   F
+1471         627   M
+1472         627   W
+1473         627   F
+1474         628   M
+1475         628   W
+1476         628   F
+1477         629   T
+1478         629   R
+1479         630   W
+1480         631   M
+1481         631   W
+1482         631   F
+1483         632   M
+1484         632   W
+1485         632   F
+1486         633   M
+1487         633   W
+1488         633   F
+1489         634   T
+1490         634   R
+1491         635   T
+1492         635   R
+1493         636   T
+1494         636   R
+1495         637   M
+1496         637   W
+1497         637   F
+1498         638   M
+1499         638   W
+1500         638   F
+1501         639   M
+1502         639   W
+1503         639   F
+1504         640   M
+1505         640   W
+1506         640   F
+1507         641   T
+1508         641   R
+1509         642   T
+1510         642   R
+1511         643   T
+1512         643   R
+1513         644   M
+1514         644   W
+1515         644   F
+1516         645   T
+1517         645   R
+1518         646   T
+1519         646   R
+1520         647   T
+1521         647   R
+1522         648   M
+1523         648   W
+1524         648   F
+1525         649   M
+1526         649   W
+1527         649   F
+1528         650   M
+1529         650   W
+1530         650   F
+1531         651   T
+1532         651   R
+1533         652   T
+1534         652   R
+1535         653   M
+1536         653   W
+1537         653   F
+1538         654   T
+1539         654   R
+1540         655   M
+1541         655   W
+1542         655   F
+1543         656   M
+1544         656   W
+1545         656   F
+1546         657   M
+1547         657   W
+1548         657   F
+1549         658   M
+1550         658   W
+1551         658   F
+1552         659   T
+1553         659   R
+1554         660   T
+1555         660   R
+1556         661   M
+1557         661   W
+1558         661   F
+1559         662   M
+1560         662   W
+1561         662   F
+1562         663   M
+1563         664   W
+1564         665   M
+1565         665   W
+1566         665   F
+1567         666   M
+1568         666   W
+1569         666   F
+1570         667   M
+1571         667   W
+1572         667   F
+1573         668   M
+1574         668   W
+1575         668   F
+1576         669   M
+1577         669   W
+1578         669   F
+1579         670   T
+1580         670   R
+1581         671   T
+1582         671   R
+1583         672   T
+1584         672   R
+1585         673   T
+1586         673   R
+1587         674   T
+1588         674   R
+1589         675   T
+1590         675   R
+1591         676   T
+1592         676   R
+1593         677   M
+1594         677   W
+1595         677   F
+1596         678   T
+1597         678   R
+1598         679   T
+1599         679   R
+1600         680   M
+1601         680   W
+1602         680   F
+1603         681   M
+1604         681   W
+1605         681   F
+1606         682   T
+1607         682   R
+1608         683   M
+1609         683   W
+1610         683   F
+1611         684   T
+1612         684   R
+1613         685   T
+1614         685   R
+1615         686   M
+1616         686   W
+1617         686   F
+1618         687   M
+1619         687   W
+1620         687   F
+1621         688   T
+1622         688   R
+1623         689   M
+1624         689   W
+1625         689   F
+1626         690   M
+1627         690   W
+1628         690   F
+1629         691   T
+1630         691   R
+1631         692   T
+1632         692   R
+1633         693   M
+1634         693   W
+1635         693   F
+1636         694   M
+1637         694   W
+1638         694   F
+1639         695   T
+1640         695   R
+1641         696   M
+1642         696   W
+1643         696   F
+1644         697   M
+1645         697   W
+1646         697   F
+1647         698   T
+1648         698   R
+1649         699   T
+1650         699   R
+1651         700   M
+1652         700   W
+1653         700   F
+1654         701   M
+1655         701   W
+1656         701   F
+1657         702   T
+1658         702   R
+1659         703   T
+1660         703   R
+1661         704   T
+1662         704   R
+1663         705   M
+1664         705   W
+1665         705   F
+1666         706   T
+1667         706   R
+1668         707   M
+1669         707   W
+1670         707   F
+1671         708   M
+1672         708   W
+1673         708   F
+1674         709   M
+1675         709   W
+1676         709   F
+1677         710   T
+1678         710   R
+1679         711   T
+1680         711   R
+1681         712   T
+1682         712   R
+1683         713   M
+1684         713   W
+1685         713   F
+1686         714   T
+1687         714   R
+1688         715   T
+1689         715   R
+1690         716   T
+1691         716   R
+1692         717   M
+1693         717   W
+1694         717   F
+1695         718   T
+1696         718   R
+1697         719   M
+1698         719   W
+1699         719   F
+1700         720   T
+1701         720   R
+1702         721   M
+1703         721   W
+1704         721   F
+1705         722   M
+1706         722   W
+1707         722   F
+1708         723   M
+1709         723   W
+1710         723   F
+
+Section Chains:
+ id  section_id alt_location alt_start_time alt_end_time
+  1           1   SBLOCKS329       14:00:00     15:50:00
+  2           2   SBLOCKS331       14:00:00     15:50:00
+  3           3   SBLOCKS321       08:00:00     09:50:00
+  4           4   SBLOCKS341       14:00:00     15:50:00
+  5           5   SBLOCKS329       08:00:00     09:50:00
+  6           6   SBLOCKS331       11:00:00     12:50:00
+  7           7   SBLOCKS321       08:00:00     09:50:00
+  8           8   SBLOCKS331       11:00:00     12:50:00
+  9           9   SBLOCKS331       12:00:00     13:50:00
+ 10          10   SBLOCKS331       14:00:00     16:00:00
+ 11          11   SBLOCKS341       12:00:00     13:50:00
+ 12          12   SBLOCKS321       08:00:00     09:50:00
+ 13          13   SBLOCKS331       11:00:00     12:50:00
+ 14          15   SBLOCKS331       09:00:00     10:50:00
+ 15          16   SBLOCKS341       08:00:00     09:50:00
+ 16          17   SBLOCKS329       14:00:00     15:50:00
+ 17          18   SBLOCKS341       14:00:00     15:50:00
+ 18          19   SBLOCKS425       11:00:00     12:15:00
+ 19          20   SBLOCKS321       11:00:00     12:50:00
+ 20          21   SBLOCKS341       14:00:00     15:50:00
+ 21          22   SBLOCKS321       14:00:00     15:50:00
+ 22          25   SBLOCKS416       12:30:00     13:45:00
+ 23          27   SBLOCKS341       09:00:00     10:50:00
+ 24          29   SBLOCKS331       11:00:00     12:50:00
+ 25          30   SBLOCKS331       14:00:00     15:50:00
+ 26          31   SBLOCKS329       14:00:00     15:50:00
+ 27          32   SBLOCKS329       14:00:00     15:50:00
+ 28          34   SBLOCKS321       14:00:00     15:50:00
+ 29          37   SBLOCKS321       14:00:00     15:50:00
+ 30         131   SBLOCKS148       11:00:00     12:50:00
+ 31         132   SBLOCKS210       08:00:00     09:15:00
+ 32         133   SBLOCKS148       14:00:00     15:50:00
+ 33         134   SBLOCKS148       11:00:00     12:50:00
+ 34         135   SBLOCKS138       11:00:00     11:50:00
+ 35         136   SBLOCKS138       14:00:00     14:50:00
+ 36         137   SBLOCKS138       09:00:00     10:50:00
+ 37         138   SBLOCKS135       09:00:00     10:50:00
+ 38         139   SBLOCKS138       14:00:00     15:50:00
+ 39         141   SBLOCKS148       09:00:00     10:50:00
+ 40         143   SBLOCKS138       14:00:00     15:50:00
+ 41         144   SBLOCKS212       11:00:00     12:15:00
+ 42         145   SBLOCKS135       11:00:00     12:50:00
+ 43         147   SBLOCKS148       09:00:00     10:50:00
+ 44         148   SBLOCKS213       11:00:00     12:15:00
+ 45         149   SBLOCKS138       11:00:00     12:50:00
+ 46         150   SBLOCKS135       14:00:00     15:50:00
+ 47         152   SBLOCKS138       09:00:00     10:50:00
+ 48         153   SBLOCKS135       11:00:00     12:50:00
+ 49         154   SBLOCKS148       11:00:00     12:50:00
+ 50         156   SBLOCKS138       11:00:00     12:50:00
+ 51         158   SBLOCKS138       09:00:00     10:50:00
+ 52         159   SBLOCKS213       12:30:00     13:45:00
+ 53         164   SBLOCKS319       14:00:00     16:50:00
+ 54         165   SBLOCKS215       08:00:00     09:15:00
+ 55         166   SBLOCKS219       14:00:00     16:50:00
+ 56         167   SBLOCKS219       14:00:00     16:50:00
+ 57         168   SBLOCKS219       14:00:00     16:50:00
+ 58         169   SBLOCKS218       09:00:00     11:50:00
+ 59         170   SBLOCKS218       08:00:00     10:50:00
+ 60         171   SBLOCKS218       08:00:00     10:50:00
+ 61         175   SBLOCKS218       14:00:00     16:50:00
+ 62         176   SBLOCKS218       14:00:00     16:50:00
+ 63         177   SBLOCKS215       09:00:00     10:50:00
+ 64         178   SBLOCKS215       11:00:00     12:50:00
+ 65         186   SBLOCKS219       09:00:00     10:50:00
+ 66         187   SBLOCKS319       11:20:00     12:50:00
+ 67         190   SBLOCKS216       09:00:00     10:50:00
+ 68         196   SBLOCKS216       09:00:00     10:50:00
+ 69         199   SBLOCKS219       11:00:00     12:50:00
+ 70         200   SBLOCKS219       13:00:00     14:50:00
+ 71         201   SBLOCKS319       09:00:00     10:50:00
+ 72         211   SBLOCKS216       14:00:00     15:50:00
+ 73         238  SBLOCKS027A       08:00:00     10:50:00
+ 74         249   SBLOCKS218       12:00:00     13:50:00
+ 75         254   SBLOCKS215       13:00:00     14:50:00
+ 76         348   SBLOCKS341       14:00:00     15:50:00
+ 77         349   SBLOCKS341       14:00:00     15:50:00
+ 78         356   SBLOCKS213       11:00:00     12:15:00
+ 79         357   SBLOCKS341       14:00:00     15:50:00
+ 80         406   EBLOCKE137       15:00:00     16:50:00
+ 81         407   EBLOCKE137       15:00:00     16:50:00
+ 82         408   EBLOCKE137       15:00:00     16:50:00
+ 83         468   SBLOCKS413       15:00:00     15:50:00
+ 84         472   SBLOCKS413       14:00:00     14:50:00
+ 85         507   SBLOCKS029       14:00:00     15:50:00
+ 86         508   SBLOCKS007       11:00:00     12:15:00
+ 87         509  SBLOCKS027A       09:00:00     10:50:00
+ 88         510   SBLOCKS029       14:00:00     15:50:00
+ 89         511  SBLOCKS027A       14:00:00     15:50:00
+ 90         512  SBLOCKS027A       14:00:00     15:50:00
+ 91         513  SBLOCKS027B       14:00:00     15:50:00
+ 92         514   SBLOCKS029       10:00:00     11:50:00
+ 93         515   SBLOCKS029       11:00:00     12:50:00
+ 94         516   SBLOCKS007       09:30:00     10:45:00
+ 95         517   SBLOCKS016       11:00:00     12:15:00
+ 96         518   SBLOCKS039       14:00:00     15:50:00
+ 97         520  SBLOCKS016B       11:00:00     12:15:00
+ 98         574   EBLOCKE241       13:00:00     15:00:00
+ 99         586   EBLOCKE121       15:30:00     16:45:00
+100         587   EBLOCKE242       15:00:00     16:50:00
+101         592   EBLOCKE241       15:00:00     16:50:00
+102         593   EBLOCKE122       14:00:00     15:15:00
+103         603   EBLOCKE242       11:00:00     12:50:00
+
+Section Chain Days:
+ id  section_chain_id alt_day
+  1                 1       T
+  2                 2       T
+  3                 3       R
+  4                 4       F
+  5                 5       M
+  6                 6       F
+  7                 7       T
+  8                 8       M
+  9                 9       R
+ 10                10       R
+ 11                11       R
+ 12                12       F
+ 13                13       T
+ 14                14       R
+ 15                15       W
+ 16                16       M
+ 17                17       W
+ 18                18       T
+ 19                18       R
+ 20                19       W
+ 21                20       W
+ 22                21       W
+ 23                22       T
+ 24                22       R
+ 25                23       R
+ 26                24       W
+ 27                25       M
+ 28                26       W
+ 29                27       R
+ 30                28       F
+ 31                29       R
+ 32                30       F
+ 33                31       T
+ 34                31       R
+ 35                32       R
+ 36                33       W
+ 37                34       F
+ 38                35       F
+ 39                36       M
+ 40                37       R
+ 41                38       T
+ 42                39       W
+ 43                40       R
+ 44                41       T
+ 45                41       R
+ 46                42       W
+ 47                43       R
+ 48                44       T
+ 49                44       R
+ 50                45       W
+ 51                46       T
+ 52                47       W
+ 53                48       F
+ 54                49       R
+ 55                50       T
+ 56                51       R
+ 57                52       T
+ 58                52       R
+ 59                53       W
+ 60                54       T
+ 61                54       R
+ 62                55       M
+ 63                56       W
+ 64                57       F
+ 65                58       F
+ 66                59       W
+ 67                60       M
+ 68                61       W
+ 69                62       F
+ 70                63       R
+ 71                64       R
+ 72                65       F
+ 73                66       F
+ 74                67       R
+ 75                68       F
+ 76                69       R
+ 77                70       R
+ 78                71       R
+ 79                72       W
+ 80                73       M
+ 81                74       F
+ 82                75       R
+ 83                76       T
+ 84                77       R
+ 85                78       T
+ 86                78       R
+ 87                79       W
+ 88                80       M
+ 89                81       W
+ 90                82       R
+ 91                83       F
+ 92                84       F
+ 93                85       W
+ 94                86       T
+ 95                86       R
+ 96                87       R
+ 97                88       F
+ 98                89       F
+ 99                90       W
+100                91       T
+101                92       T
+102                93       W
+103                94       T
+104                94       R
+105                95       T
+106                95       R
+107                96       W
+108                97       T
+109                97       R
+110                98       W
+111                99       T
+112                99       R
+113               100       W
+114               101       F
+115               102       T
+116               102       R
+117               103       W
+

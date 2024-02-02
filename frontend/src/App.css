@@ -1,0 +1,70 @@
+/* Add your global styles here */
+
+.container-fluid {
+  height: 90vh;
+}
+
+#mainRow {
+  height: 100%;
+}
+
+body {
+  font-family: "Rubik", sans-serif;
+  background-color: #0b0c10;
+  color: white;
+}
+
+#filters,
+#advanced {
+  transition: background-color 0.3s ease;
+}
+
+#filters:hover,
+#filters.selected,
+#advanced:hover,
+#advanced.selected {
+  background-color: #343a40;
+  cursor: pointer;
+}
+
+.linediv {
+  width: 1px;
+  height: 100%;
+  background-color: white;
+}
+
+.col-4 {
+  height: 100%;
+  border-right: 1px dashed white;
+}
+
+.col-8 {
+  height: 100%;
+  border-left: 1px dashed white;
+}
+
+#selContainer {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+#selDiv {
+  height: 6vh;
+}
+
+.overflow-container::-webkit-scrollbar {
+  display: none;
+}
+
+.overflow-container {
+  width: 100%;
+  overflow-y: auto;
+}
+
+/* Center child elements horizontally */
+.overflow-container > * {
+  margin: 0 auto;
+}
+
+/* Additional styles can be added here */

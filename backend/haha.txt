@@ -1,0 +1,52 @@
+Course Code,Course Name,Section ID,Available Seats,Total Seats,Location,Instructor,Start Time,End Time,Days,Alt Location,Alt Start Time,Alt End Time,Alt Days
+102,Programming I,A,20,35,SBLOCKS320,Z Malik,15:30,16:45,"['R', 'T']",SBLOCKS319,14:00,16:50,['W']
+102,Programming I,B,29,35,SBLOCKS319,U Nisar,14:00,16:50,['M'],SBLOCKS215,08:00,09:15,"['R', 'T']"
+111,Programming II,A,0,35,SBLOCKS317,N Ashraf,09:00,09:50,"['F', 'M', 'W']",SBLOCKS219,14:00,16:50,['M']
+111,Programming II,B,23,35,SBLOCKS219,F Shaheen,08:00,08:50,"['F', 'M', 'W']",SBLOCKS219,14:00,16:50,['W']
+111,Programming II,C,0,35,SBLOCKS320,N Ashraf,10:00,10:50,"['F', 'M', 'W']",SBLOCKS219,14:00,16:50,['F']
+111,Programming II,D,24,35,SBLOCKS218,F Shaheen,09:30,10:45,"['R', 'T']",SBLOCKS218,09:00,11:50,['F']
+111,Programming II,E,8,35,SBLOCKS215,A Atique,12:00,12:50,"['F', 'M', 'W']",SBLOCKS218,08:00,10:50,['W']
+111,Programming II,F,13,35,SBLOCKS320,S Qureshi,11:00,11:50,"['F', 'M', 'W']",SBLOCKS218,08:00,10:50,['M']
+113,Discrete Mathematics,A,0,35,SBLOCKS216,M Tamoor,11:00,12:15,"['R', 'T']",,,,
+113,Discrete Mathematics,B,0,35,SBLOCKS216,M Tamoor,12:30,13:45,"['R', 'T']",,,,
+113,Discrete Mathematics,C,1,35,SBLOCKS216,M Tamoor,14:00,15:15,"['R', 'T']",,,,
+200,Data Struc. & Algor.,A,0,35,SBLOCKS317,S Qureshi,12:00,12:50,"['F', 'M', 'W']",SBLOCKS218,14:00,16:50,['W']
+200,Data Struc. & Algor.,B,10,35,SBLOCKS120,S Qureshi,10:00,10:50,"['F', 'M', 'W']",SBLOCKS218,14:00,16:50,['F']
+206,Digital Logic Design,A,0,30,SBLOCKS027A,S Minhas,09:00,10:50,['T'],SBLOCKS215,09:00,10:50,['R']
+206,Digital Logic Design,B,7,30,SBLOCKS027A,S Minhas,14:00,15:50,['T'],SBLOCKS215,11:00,12:50,['R']
+213,Database Systems,A,0,35,SBLOCKS319,S Abbasi,11:00,12:50,"['R', 'T']",,,,
+213,Database Systems,B,0,35,SBLOCKS219,S Abbasi,11:00,12:50,"['F', 'W']",,,,
+213,Database Systems,C,0,35,SBLOCKS319,S Abbasi,13:00,14:50,"['R', 'T']",,,,
+220,Software Engineering,A,13,35,SBLOCKS317,N Sabahat,11:00,11:50,"['F', 'M', 'W']",,,,
+220,Software Engineering,B,5,35,SBLOCKS316,N Sabahat,14:00,14:50,"['F', 'M', 'W']",,,,
+220,Software Engineering,C,0,35,SBLOCKS215,S Toor,14:00,14:50,"['F', 'M', 'W']",,,,
+295,Introduction to C/C+,A,25,35,SBLOCKS219,A Khanum,15:00,16:50,"['R', 'T']",,,,
+300,Computer Organizatio,A,0,35,SBLOCKS216,A Khan,09:00,10:50,['W'],SBLOCKS219,09:00,10:50,['F']
+300,Computer Organizatio,B,3,35,SBLOCKS216,A Khan,11:00,12:50,['W'],SBLOCKS319,11:20,12:50,['F']
+300,Computer Organizatio,C,16,35,SBLOCKS319,M Butt,11:00,12:50,"['M', 'W']",,,,
+301,Operating Systems,A,16,35,SBLOCKS320,M Chaudhry,11:00,12:50,"['R', 'T']",,,,
+301,Operating Systems,B,28,35,SBLOCKS319,M Chaudhry,09:00,10:50,['T'],SBLOCKS216,09:00,10:50,['R']
+301,Operating Systems,C,1,30,SBLOCKS218,M Chaudhry,11:00,12:50,"['M', 'W']",,,,
+302,Theory of Automata,A,2,35,SBLOCKS215,A Yousaf,08:00,08:50,"['F', 'M', 'W']",,,,
+302,Theory of Automata,B,21,35,SBLOCKS316,R Bqa,11:00,12:15,"['R', 'T']",,,,
+303,D&A of Algorithms,A,18,35,SBLOCKS316,R Bqa,08:00,09:15,"['R', 'T']",,,,
+303,D&A of Algorithms,B,0,35,SBLOCKS316,R Bqa,09:30,10:45,"['R', 'T']",,,,
+311,Computer Networks,A,5,30,SBLOCKS219,A Basharat,09:00,10:50,['M'],SBLOCKS216,09:00,10:50,['F']
+311,Computer Networks,B,0,30,SBLOCKS218,M Mushtaq,11:00,12:50,"['R', 'T']",,,,
+311,Computer Networks,C,11,25,SBLOCKS120,M Mushtaq,09:00,10:50,"['R', 'T']",,,,
+360,Introduction to AI,A,20,35,SBLOCKS215,A Khanum,11:00,12:50,['T'],SBLOCKS219,11:00,12:50,['R']
+360,Introduction to AI,B,7,35,SBLOCKS215,A Khanum,13:00,14:50,['T'],SBLOCKS219,13:00,14:50,['R']
+360,Introduction to AI,C,16,35,SBLOCKS215,M Tamoor,09:00,10:50,['T'],SBLOCKS319,09:00,10:50,['R']
+401,Ethics Comp Professn,A,29,35,SBLOCKS316,N Sabahat,15:00,15:50,['M'],,,,
+401,Ethics Comp Professn,B,0,35,SBLOCKS316,N Sabahat,13:00,13:50,['W'],,,,
+401,Ethics Comp Professn,C,32,35,SBLOCKS316,N Sabahat,15:00,15:50,['F'],,,,
+405,Human Computer Inter,A,2,35,SBLOCKS120,Z Malik,11:00,12:50,"['R', 'T']",,,,
+410,Parallel and Distrib,A,0,35,SBLOCKS317,S Nasim,15:30,16:45,"['R', 'T']",,,,
+410,Parallel and Distrib,B,16,35,SBLOCKS316,S Nasim,08:00,08:50,"['F', 'M', 'W']",,,,
+421,Information Security,A,31,35,SBLOCKS216,A Basharat,08:00,08:50,"['F', 'M', 'W']",,,,
+421,Information Security,B,0,35,SBLOCKS317,M Mushtaq,14:00,14:50,"['F', 'M', 'W']",,,,
+451,Compiler Constructio,A,5,35,SBLOCKS319,M Butt,09:00,10:50,"['M', 'W']",,,,
+451,Compiler Constructio,B,15,35,SBLOCKS218,M Butt,14:00,15:50,['M'],SBLOCKS216,14:00,15:50,['W']
+452,Computer Architectur,A,30,35,SBLOCKS120,H Shakeel,12:00,12:50,"['F', 'M', 'W']",,,,
+497A,Senior Project,A,36,70,,,,,[],,,,
+497B,Senior Project,A,74,120,,,,,[],,,,

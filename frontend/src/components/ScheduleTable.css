@@ -1,0 +1,63 @@
+.table {
+  height: 90%;
+  border-collapse: collapse;
+  border-top: transparent !important;
+}
+
+.table th,
+.table td {
+  width: calc(100% / 6);
+  vertical-align: bottom;
+  text-align: center; /* Horizontally center align content */
+  background-color: #0b0c10 !important;
+  color: white !important;
+  padding: 0 !important;
+}
+
+.table td {
+  position: relative;
+}
+
+.relative-position {
+  position: relative;
+  vertical-align: bottom; /* Vertically center the content */
+  text-align: center;
+}
+
+.absolute-position {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  color: black;
+  z-index: 1;
+}
+
+.table th {
+  border: none;
+}
+
+.table td {
+  border: 1px solid #dee2e6;
+}
+
+.table th.time-header {
+  border: none;
+}
+
+/* Keep border for the first column td */
+.table td:first-child {
+  border-left: 1px solid #dee2e6;
+}
+
+/* Remove border for the first column th */
+.table th:first-child {
+  border-top: none;
+  border-left: none; /* Optionally remove left border for first column th */
+}
+
+.table th,
+.table td {
+  font-weight: normal;
+}

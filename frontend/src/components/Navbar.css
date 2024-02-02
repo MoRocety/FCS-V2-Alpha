@@ -1,0 +1,26 @@
+.navbar {
+  height: 10vh;
+}
+
+.navbar-nav {
+  margin-left: auto !important;
+}
+
+.navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar-nav .nav-link.active {
+  text-decoration: underline;
+}
+
+.nav-link:hover {
+  font-family: "Rubik", sans-serif;
+  color: #007bff !important;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.nav-link {
+  font-family: "Rubik", sans-serif;
+  color: white !important;
+}

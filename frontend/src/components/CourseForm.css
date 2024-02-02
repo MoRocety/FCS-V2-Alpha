@@ -1,0 +1,22 @@
+/* CourseForm.css */
+
+/* Override Bootstrap styles */
+.input-field:focus {
+  border-color: white !important;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 2px white !important; /* Change glow effect color to white */
+}
+
+/* Customize placeholder text color */
+.input-field::placeholder {
+  color: rgba(
+    255,
+    255,
+    255,
+    0.6
+  ) !important; /* Adjust opacity for a withdrawn shade of white */
+}
+
+/* Optionally, you can style the input text color */
+.input-field {
+  color: white; /* Set input text color */
+}
